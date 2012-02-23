@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8667/trunk/web/generate/lib
+END
+files.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1588/trunk/web/generate/lib/files.inc.php
+END
+Curated.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8667/trunk/web/generate/lib/Curated.class.php
+END
+Example.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8650/trunk/web/generate/lib/Example.class.php
+END
+xhtml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7050/trunk/web/generate/lib/xhtml.class.php
+END
+functions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7050/trunk/web/generate/lib/functions.inc.php
+END
+Ref.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7050/trunk/web/generate/lib/Ref.class.php
+END
+Translation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8286/trunk/web/generate/lib/Translation.class.php
+END
+XPath.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1588/trunk/web/generate/lib/XPath.class.php
+END

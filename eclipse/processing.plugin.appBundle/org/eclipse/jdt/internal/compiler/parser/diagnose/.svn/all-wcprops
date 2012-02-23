@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose
+END
+DiagnoseParser$PrimaryRepairInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/DiagnoseParser$PrimaryRepairInfo.class
+END
+DiagnoseParser$SecondaryRepairInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/DiagnoseParser$SecondaryRepairInfo.class
+END
+LexStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/LexStream.class
+END
+DiagnoseParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/DiagnoseParser.class
+END
+DiagnoseParser$StateInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/DiagnoseParser$StateInfo.class
+END
+LexStream$Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/LexStream$Token.class
+END
+RangeUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/RangeUtil.class
+END
+RangeUtil$RangeResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/RangeUtil$RangeResult.class
+END
+DiagnoseParser$RepairCandidate.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/parser/diagnose/DiagnoseParser$RepairCandidate.class
+END

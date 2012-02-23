@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar
+END
+TarBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarBuffer.class
+END
+TarInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarInputStream.class
+END
+TarOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarOutputStream.class
+END
+TarConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarConstants.class
+END
+TarUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarUtils.class
+END
+TarEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/tar/TarEntry.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/language
+END
+ProcessingCodeScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/language/ProcessingCodeScanner.java
+END
+ProcessingCompletionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/language/ProcessingCompletionProcessor.java
+END
+ProcessingAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/language/ProcessingAutoIndentStrategy.java
+END
+ProcessingDoubleClickSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/language/ProcessingDoubleClickSelector.java
+END

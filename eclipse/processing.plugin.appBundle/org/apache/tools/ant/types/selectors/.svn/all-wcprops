@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors
+END
+SizeSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SizeSelector.class
+END
+DateSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/DateSelector.class
+END
+ContainsSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/ContainsSelector.class
+END
+DateSelector$TimeComparisons.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/DateSelector$TimeComparisons.class
+END
+FileSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/FileSelector.class
+END
+FilenameSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/FilenameSelector.class
+END
+PresentSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/PresentSelector.class
+END
+SizeSelector$ByteUnits.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SizeSelector$ByteUnits.class
+END
+TypeSelector$FileType.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/TypeSelector$FileType.class
+END
+ExtendFileSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/ExtendFileSelector.class
+END
+SizeSelector$SizeComparisons.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SizeSelector$SizeComparisons.class
+END
+ExtendSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/ExtendSelector.class
+END
+ContainsRegexpSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/ContainsRegexpSelector.class
+END
+DependSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/DependSelector.class
+END
+NoneSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/NoneSelector.class
+END
+NotSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/NotSelector.class
+END
+AndSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/AndSelector.class
+END
+DepthSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/DepthSelector.class
+END
+BaseSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/BaseSelector.class
+END
+BaseSelectorContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/BaseSelectorContainer.class
+END
+SelectSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SelectSelector.class
+END
+OrSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/OrSelector.class
+END
+TypeSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/TypeSelector.class
+END
+BaseExtendSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/BaseExtendSelector.class
+END
+SelectorContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SelectorContainer.class
+END
+SelectorScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SelectorScanner.class
+END
+MappingSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/MappingSelector.class
+END
+MajoritySelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/MajoritySelector.class
+END
+SelectorUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SelectorUtils.class
+END
+DifferentSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/DifferentSelector.class
+END
+AbstractSelectorContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.class
+END
+SignedSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/SignedSelector.class
+END
+PresentSelector$FilePresence.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/PresentSelector$FilePresence.class
+END

@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant
+END
+DefaultLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DefaultLogger.class
+END
+IntrospectionHelper$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$2.class
+END
+IntrospectionHelper$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$4.class
+END
+IntrospectionHelper$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$6.class
+END
+IntrospectionHelper$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$8.class
+END
+BuildLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/BuildLogger.class
+END
+XmlLogger$TimedElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/XmlLogger$TimedElement.class
+END
+Task.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Task.class
+END
+TaskAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/TaskAdapter.class
+END
+BuildListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/BuildListener.class
+END
+ProjectHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ProjectHelper.class
+END
+DynamicAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicAttribute.class
+END
+DemuxInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DemuxInputStream.class
+END
+BuildException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/BuildException.class
+END
+DemuxOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DemuxOutputStream.class
+END
+TypeAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/TypeAdapter.class
+END
+AntClassLoader$ResourceEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/AntClassLoader$ResourceEnumeration.class
+END
+ComponentHelper$AntTypeTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ComponentHelper$AntTypeTable.class
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Main.class
+END
+IntrospectionHelper$Creator.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$Creator.class
+END
+XmlLogger$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/XmlLogger$1.class
+END
+IntrospectionHelper$NestedCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$NestedCreator.class
+END
+DynamicElementNS.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicElementNS.class
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/version.txt
+END
+IntrospectionHelper$AddNestedCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$AddNestedCreator.class
+END
+NoBannerLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/NoBannerLogger.class
+END
+DemuxOutputStream$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DemuxOutputStream$1.class
+END
+IntrospectionHelper$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$10.class
+END
+defaultManifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/defaultManifest.mf
+END
+IntrospectionHelper$CreateNestedCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$CreateNestedCreator.class
+END
+DirectoryScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DirectoryScanner.class
+END
+IntrospectionHelper$AttributeSetter.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$AttributeSetter.class
+END
+Project$AntRefTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Project$AntRefTable.class
+END
+PropertyHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/PropertyHelper.class
+END
+IntrospectionHelper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$1.class
+END
+PathTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/PathTokenizer.class
+END
+IntrospectionHelper$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$3.class
+END
+IntrospectionHelper$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$5.class
+END
+ProjectComponent.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ProjectComponent.class
+END
+IntrospectionHelper$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$7.class
+END
+ExitStatusException.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ExitStatusException.class
+END
+IntrospectionHelper$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$9.class
+END
+AntTypeDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/AntTypeDefinition.class
+END
+DynamicElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicElement.class
+END
+AntClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/AntClassLoader.class
+END
+XmlLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/XmlLogger.class
+END
+MagicNames.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/MagicNames.class
+END
+RuntimeConfigurable.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/RuntimeConfigurable.class
+END
+Project.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Project.class
+END
+DynamicConfigurator.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicConfigurator.class
+END
+Diagnostics.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Diagnostics.class
+END
+Location.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Location.class
+END
+UnknownElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/UnknownElement.class
+END
+SubBuildListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/SubBuildListener.class
+END
+UnsupportedElementException.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/UnsupportedElementException.class
+END
+Target.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Target.class
+END
+ExitException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ExitException.class
+END
+FileScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/FileScanner.class
+END
+DemuxOutputStream$BufferInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DemuxOutputStream$BufferInfo.class
+END
+UnsupportedAttributeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/UnsupportedAttributeException.class
+END
+Diagnostics$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Diagnostics$1.class
+END
+Executor.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/Executor.class
+END
+IntrospectionHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper.class
+END
+BuildEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/BuildEvent.class
+END
+ComponentHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/ComponentHelper.class
+END
+TaskContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/TaskContainer.class
+END
+IntrospectionHelper$11.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/IntrospectionHelper$11.class
+END
+DynamicConfiguratorNS.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicConfiguratorNS.class
+END
+DynamicAttributeNS.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/DynamicAttributeNS.class
+END

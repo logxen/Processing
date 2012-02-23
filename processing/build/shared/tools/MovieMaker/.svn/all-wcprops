@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8514/trunk/processing/build/shared/tools/MovieMaker
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/.project
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/license.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8503/trunk/processing/build/shared/tools/MovieMaker/build.xml
+END

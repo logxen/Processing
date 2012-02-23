@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email
+END
+EmailAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/EmailAddress.class
+END
+PlainMailer.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/PlainMailer.class
+END
+UUMailer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/UUMailer.class
+END
+Message.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/Message.class
+END
+EmailTask$Encoding.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/EmailTask$Encoding.class
+END
+Header.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/Header.class
+END
+Mailer.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/Mailer.class
+END
+EmailTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/email/EmailTask.class
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers
+END
+CompilerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/CompilerAdapter.class
+END
+Sj.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Sj.class
+END
+DefaultCompilerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.class
+END
+AptCompilerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/AptCompilerAdapter.class
+END
+Jvc.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Jvc.class
+END
+Gcj.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Gcj.class
+END
+CompilerAdapterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/CompilerAdapterFactory.class
+END
+AptExternalCompilerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/AptExternalCompilerAdapter.class
+END
+Jikes.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Jikes.class
+END
+Javac12.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Javac12.class
+END
+Kjc.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Kjc.class
+END
+JavacExternal.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/JavacExternal.class
+END
+Javac13.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/compilers/Javac13.class
+END

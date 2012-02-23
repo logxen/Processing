@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/test/processing/parsing
+END
+ParserTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/test/processing/parsing/ParserTests.class
+END
+UTCompiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/test/processing/parsing/UTCompiler.class
+END
+AutoFormatTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/test/processing/parsing/AutoFormatTests.class
+END
+ProcessingTestUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/test/processing/parsing/ProcessingTestUtil.class
+END

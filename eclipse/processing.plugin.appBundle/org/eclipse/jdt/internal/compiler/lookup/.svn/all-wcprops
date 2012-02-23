@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup
+END
+Substitution.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/Substitution.class
+END
+ParameterizedMethodBinding$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedMethodBinding$2.class
+END
+ReferenceBinding$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ReferenceBinding$1.class
+END
+ExtraCompilerModifiers.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ExtraCompilerModifiers.class
+END
+ReferenceBinding$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ReferenceBinding$3.class
+END
+ProblemReasons.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemReasons.class
+END
+LocalVariableBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/LocalVariableBinding.class
+END
+ProblemMethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemMethodBinding.class
+END
+SourceTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/SourceTypeBinding.class
+END
+InvocationSite.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/InvocationSite.class
+END
+BaseTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/BaseTypeBinding.class
+END
+SyntheticFieldBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/SyntheticFieldBinding.class
+END
+ProblemReferenceBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemReferenceBinding.class
+END
+AnnotationHolder$MethodHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/AnnotationHolder$MethodHolder.class
+END
+TypeConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/TypeConstants.class
+END
+NestedTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/NestedTypeBinding.class
+END
+TypeIds.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/TypeIds.class
+END
+MethodVerifier15.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MethodVerifier15.class
+END
+WildcardBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/WildcardBinding.class
+END
+BlockScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/BlockScope.class
+END
+LocalTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/LocalTypeBinding.class
+END
+BinaryLocalVariableBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/BinaryLocalVariableBinding.class
+END
+SignatureWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/SignatureWrapper.class
+END
+InferenceContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/InferenceContext.class
+END
+ImportBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ImportBinding.class
+END
+ProblemPackageBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemPackageBinding.class
+END
+CompilationUnitScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/CompilationUnitScope.class
+END
+MethodScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MethodScope.class
+END
+Binding.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/Binding.class
+END
+MethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MethodBinding.class
+END
+ParameterizedMethodBinding$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedMethodBinding$1.class
+END
+FieldBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/FieldBinding.class
+END
+ReferenceBinding$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ReferenceBinding$2.class
+END
+VariableBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/VariableBinding.class
+END
+ParameterizedGenericMethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedGenericMethodBinding.class
+END
+PackageBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/PackageBinding.class
+END
+ParameterizedTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedTypeBinding.class
+END
+ProblemBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemBinding.class
+END
+ParameterizedFieldBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedFieldBinding.class
+END
+LookupEnvironment.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/LookupEnvironment.class
+END
+ClassScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ClassScope.class
+END
+MemberTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MemberTypeBinding.class
+END
+MethodVerifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MethodVerifier.class
+END
+TypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/TypeBinding.class
+END
+UnresolvedAnnotationBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/UnresolvedAnnotationBinding.class
+END
+BinaryTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/BinaryTypeBinding.class
+END
+TypeVariableBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/TypeVariableBinding.class
+END
+UpdatedMethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/UpdatedMethodBinding.class
+END
+RawTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/RawTypeBinding.class
+END
+ImportConflictBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ImportConflictBinding.class
+END
+ParameterizedMethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ParameterizedMethodBinding.class
+END
+InnerEmulationDependency.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/InnerEmulationDependency.class
+END
+ReferenceBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ReferenceBinding.class
+END
+TagBits.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/TagBits.class
+END
+CaptureBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/CaptureBinding.class
+END
+ProblemFieldBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ProblemFieldBinding.class
+END
+UnresolvedReferenceBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/UnresolvedReferenceBinding.class
+END
+ElementValuePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ElementValuePair.class
+END
+AnnotationBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/AnnotationBinding.class
+END
+MissingTypeBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/MissingTypeBinding.class
+END
+AnnotationHolder$AnnotationMethodHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/AnnotationHolder$AnnotationMethodHolder.class
+END
+SyntheticMethodBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/SyntheticMethodBinding.class
+END
+SyntheticArgumentBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/SyntheticArgumentBinding.class
+END
+AnnotationHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/AnnotationHolder.class
+END
+Scope.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/Scope.class
+END
+ArrayBinding.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/lookup/ArrayBinding.class
+END

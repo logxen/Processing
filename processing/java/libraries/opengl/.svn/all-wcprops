@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9248/trunk/processing/java/libraries/opengl
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9222/trunk/processing/java/libraries/opengl/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8062/trunk/processing/java/libraries/opengl/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9225/trunk/processing/java/libraries/opengl/build.xml
+END

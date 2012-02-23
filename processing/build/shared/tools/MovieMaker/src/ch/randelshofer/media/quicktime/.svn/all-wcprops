@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/media/quicktime
+END
+AppleRLEEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/media/quicktime/AppleRLEEncoder.java
+END
+DataAtomOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/media/quicktime/DataAtomOutputStream.java
+END
+QuickTimeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/media/quicktime/QuickTimeWriter.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/xml
+END
+XMLWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7367/trunk/processing/build/javadoc/everything/processing/xml/XMLWriter.html
+END
+StdXMLReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/StdXMLReader.html
+END
+XMLException.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/XMLException.html
+END
+XMLEntityResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/XMLEntityResolver.html
+END
+StdXMLBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7367/trunk/processing/build/javadoc/everything/processing/xml/StdXMLBuilder.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/package-frame.html
+END
+XMLValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/XMLValidator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7367/trunk/processing/build/javadoc/everything/processing/xml/package-summary.html
+END
+StdXMLParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/StdXMLParser.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/package-tree.html
+END
+XMLParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/XMLParseException.html
+END
+XMLValidationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/xml/XMLValidationException.html
+END
+XMLElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/xml/XMLElement.html
+END

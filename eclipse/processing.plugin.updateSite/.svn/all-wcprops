@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7396/trunk/eclipse/processing.plugin.updateSite
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7396/trunk/eclipse/processing.plugin.updateSite/site.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.updateSite/.project
+END
+content.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7396/trunk/eclipse/processing.plugin.updateSite/content.jar
+END
+artifacts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7396/trunk/eclipse/processing.plugin.updateSite/artifacts.jar
+END

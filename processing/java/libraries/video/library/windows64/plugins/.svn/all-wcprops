@@ -1,0 +1,881 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins
+END
+libgstauparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstauparse.dll
+END
+libgstbayer.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstbayer.dll
+END
+libgstrtpvp8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrtpvp8.dll
+END
+libgstffmpeg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstffmpeg.dll
+END
+libgstvideofiltersbad.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideofiltersbad.dll
+END
+libgstvolume.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvolume.dll
+END
+libgstaudiotestsrc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudiotestsrc.dll
+END
+libgstpostproc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstpostproc.dll
+END
+libgstautoconvert.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstautoconvert.dll
+END
+libgstadpcmenc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstadpcmenc.dll
+END
+libgstnuvdemux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstnuvdemux.dll
+END
+libgstcamerabin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcamerabin.dll
+END
+libgstrawparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrawparse.dll
+END
+libgstvideomaxrate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideomaxrate.dll
+END
+libgstcoreindexers.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcoreindexers.dll
+END
+libgstwinks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstwinks.dll
+END
+libgstlegacyresample.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstlegacyresample.dll
+END
+libgstaudiofx.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudiofx.dll
+END
+libgstnavigationtest.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstnavigationtest.dll
+END
+libgstspeed.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstspeed.dll
+END
+libgstaudioparsers.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudioparsers.dll
+END
+libgstmpegtsdemux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpegtsdemux.dll
+END
+libgstdvdspu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdvdspu.dll
+END
+libgstisomp4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstisomp4.dll
+END
+libgstavi.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstavi.dll
+END
+libgstid3demux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstid3demux.dll
+END
+libgsttheora.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsttheora.dll
+END
+libgstalaw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstalaw.dll
+END
+libgstalpha.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstalpha.dll
+END
+libgsty4mdec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsty4mdec.dll
+END
+libgstencodebin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstencodebin.dll
+END
+libgstflv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstflv.dll
+END
+libgstmve.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmve.dll
+END
+libgstvideomeasure.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideomeasure.dll
+END
+libgsttta.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsttta.dll
+END
+libgstjpegformat.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstjpegformat.dll
+END
+libgststereo.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgststereo.dll
+END
+libgstequalizer.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstequalizer.dll
+END
+libgstrtp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrtp.dll
+END
+libgstlevel.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstlevel.dll
+END
+libgstcog.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcog.dll
+END
+libgstcdxaparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcdxaparse.dll
+END
+libgstdecodebin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdecodebin.dll
+END
+libgstogg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstogg.dll
+END
+libgstfragmented.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstfragmented.dll
+END
+libgstvideoparsersbad.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideoparsersbad.dll
+END
+libgstfestival.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstfestival.dll
+END
+libgstdirectdrawsink.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdirectdrawsink.dll
+END
+libgsth264parse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsth264parse.dll
+END
+libgstrfbsrc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrfbsrc.dll
+END
+libgstreal.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstreal.dll
+END
+libgstimagefreeze.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstimagefreeze.dll
+END
+libgstmultifile.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmultifile.dll
+END
+libgstmpegdemux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpegdemux.dll
+END
+libgstrtpmanager.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrtpmanager.dll
+END
+libgstinterlace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstinterlace.dll
+END
+libgstcutter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcutter.dll
+END
+libgstvideomixer.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideomixer.dll
+END
+libgstaudiorate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudiorate.dll
+END
+libgstvideotestsrc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideotestsrc.dll
+END
+libgstsdi.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsdi.dll
+END
+libgstvideobox.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideobox.dll
+END
+libgstsubenc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsubenc.dll
+END
+libgstmultipart.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmultipart.dll
+END
+libgsteffectv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsteffectv.dll
+END
+libgstwavenc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstwavenc.dll
+END
+libgstpng.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstpng.dll
+END
+libgstudp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstudp.dll
+END
+libgstgaudieffects.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgaudieffects.dll
+END
+libgstcolorspace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcolorspace.dll
+END
+libgstpnm.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstpnm.dll
+END
+libgstinterleave.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstinterleave.dll
+END
+libgstmpeg4videoparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpeg4videoparse.dll
+END
+libgstliveadder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstliveadder.dll
+END
+libgstautodetect.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstautodetect.dll
+END
+libgstgoom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgoom.dll
+END
+libgstvmnc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvmnc.dll
+END
+libgstvorbis.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvorbis.dll
+END
+libgstaiff.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaiff.dll
+END
+libgstsegmentclip.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsegmentclip.dll
+END
+libgstmpegvideoparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpegvideoparse.dll
+END
+libgstgio.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgio.dll
+END
+libgstpcapparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstpcapparse.dll
+END
+libgstdeinterlace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdeinterlace.dll
+END
+libgstcoreelements.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcoreelements.dll
+END
+libgstshapewipe.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstshapewipe.dll
+END
+libgstjpeg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstjpeg.dll
+END
+libgstnsf.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstnsf.dll
+END
+libgstsdpelem.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsdpelem.dll
+END
+libgstdirectsoundsrc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdirectsoundsrc.dll
+END
+libgstannodex.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstannodex.dll
+END
+libgsty4menc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsty4menc.dll
+END
+libgstrtpmux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrtpmux.dll
+END
+libgstadpcmdec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstadpcmdec.dll
+END
+libgstasfmux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstasfmux.dll
+END
+libgstflxdec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstflxdec.dll
+END
+libgstgeometrictransform.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgeometrictransform.dll
+END
+libgstvideofilter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideofilter.dll
+END
+libgstffmpegscale.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstffmpegscale.dll
+END
+libgstvideoscale.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideoscale.dll
+END
+libgstffmpegcolorspace.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstffmpegcolorspace.dll
+END
+libgstalphacolor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstalphacolor.dll
+END
+libgstmpegpsmux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpegpsmux.dll
+END
+libgstdebug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdebug.dll
+END
+libgstsmpte.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsmpte.dll
+END
+libgstmpegtsmux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmpegtsmux.dll
+END
+libgstdecodebin2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdecodebin2.dll
+END
+libgstjp2kdecimator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstjp2kdecimator.dll
+END
+libgstdataurisrc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdataurisrc.dll
+END
+libgstaudioconvert.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudioconvert.dll
+END
+libgstdirectsoundsink.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdirectsoundsink.dll
+END
+libgstscaletempoplugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstscaletempoplugin.dll
+END
+libgstcoloreffects.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstcoloreffects.dll
+END
+libgstdebugutilsbad.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdebugutilsbad.dll
+END
+libgstgoom2k1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgoom2k1.dll
+END
+libgstivfparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstivfparse.dll
+END
+libgstadder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstadder.dll
+END
+libgstsiren.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsiren.dll
+END
+libgstmatroska.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmatroska.dll
+END
+libgstsubparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstsubparse.dll
+END
+libgstmulaw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmulaw.dll
+END
+libgstpatchdetect.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstpatchdetect.dll
+END
+libgstwavparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstwavparse.dll
+END
+libgstdtmf.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdtmf.dll
+END
+libgstaudioresample.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstaudioresample.dll
+END
+libgstreplaygain.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstreplaygain.dll
+END
+libgstplaybin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstplaybin.dll
+END
+libgstapetag.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstapetag.dll
+END
+libgstspectrum.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstspectrum.dll
+END
+libgstgsettingselements.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgsettingselements.dll
+END
+libgstvideosignal.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideosignal.dll
+END
+libgstinvtelecine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstinvtelecine.dll
+END
+libgstgdp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstgdp.dll
+END
+libgsttypefindfunctions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsttypefindfunctions.dll
+END
+libgstid3tag.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstid3tag.dll
+END
+libgsthdvparse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsthdvparse.dll
+END
+libgstapp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstapp.dll
+END
+libgstfreeze.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstfreeze.dll
+END
+libgstvideorate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideorate.dll
+END
+libgstdvbsuboverlay.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstdvbsuboverlay.dll
+END
+libgstfrei0r.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstfrei0r.dll
+END
+libgstfieldanalysis.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstfieldanalysis.dll
+END
+libgsticydemux.dll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgsticydemux.dll
+END
+libgstrtsp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstrtsp.dll
+END
+libgstmxf.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstmxf.dll
+END
+libgstvideocrop.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library/windows64/plugins/libgstvideocrop.dll
+END

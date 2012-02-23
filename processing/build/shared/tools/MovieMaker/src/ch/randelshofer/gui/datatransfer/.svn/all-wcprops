@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer
+END
+StringTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/StringTransferable.java
+END
+PlainTextTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/PlainTextTransferable.java
+END
+FileTextFieldTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/FileTextFieldTransferHandler.java
+END
+CompositeTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/CompositeTransferable.java
+END
+AbstractTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/gui/datatransfer/AbstractTransferable.java
+END

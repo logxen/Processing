@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32
+END
+StdCallLibrary.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/StdCallLibrary.class
+END
+W32APITypeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/W32APITypeMapper.class
+END
+W32APIFunctionMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/W32APIFunctionMapper.class
+END
+StdCallFunctionMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/StdCallFunctionMapper.class
+END
+W32APITypeMapper$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/W32APITypeMapper$1.class
+END
+W32APITypeMapper$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/W32APITypeMapper$2.class
+END
+StdCallLibrary$StdCallCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/StdCallLibrary$StdCallCallback.class
+END
+StdCall.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/win32/StdCall.class
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler
+END
+CharOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler/CharOperation.class
+END
+CategorizedProblem.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler/CategorizedProblem.class
+END
+CompilationProgress.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler/CompilationProgress.class
+END
+InvalidInputException.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler/InvalidInputException.class
+END
+IProblem.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/core/compiler/IProblem.class
+END

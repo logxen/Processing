@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8944/trunk/processing/app/src/processing/app/syntax
+END
+TextAreaPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/syntax/TextAreaPainter.java
+END
+PdeKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8944/trunk/processing/app/src/processing/app/syntax/PdeKeywords.java
+END
+DefaultInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7831/trunk/processing/app/src/processing/app/syntax/DefaultInputHandler.java
+END
+TextAreaDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/syntax/TextAreaDefaults.java
+END
+SyntaxStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4824/trunk/processing/app/src/processing/app/syntax/SyntaxStyle.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3410/trunk/processing/app/src/processing/app/syntax/Token.java
+END
+TextUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6595/trunk/processing/app/src/processing/app/syntax/TextUtilities.java
+END
+TokenMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6624/trunk/processing/app/src/processing/app/syntax/TokenMarker.java
+END
+SyntaxUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8877/trunk/processing/app/src/processing/app/syntax/SyntaxUtilities.java
+END
+KeywordMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6609/trunk/processing/app/src/processing/app/syntax/KeywordMap.java
+END
+SyntaxDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3410/trunk/processing/app/src/processing/app/syntax/SyntaxDocument.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3410/trunk/processing/app/src/processing/app/syntax/readme.txt
+END
+JEditTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8408/trunk/processing/app/src/processing/app/syntax/JEditTextArea.java
+END
+InputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8408/trunk/processing/app/src/processing/app/syntax/InputHandler.java
+END
+Brackets.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7401/trunk/processing/app/src/processing/app/syntax/Brackets.java
+END
+PdeTextAreaDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/syntax/PdeTextAreaDefaults.java
+END

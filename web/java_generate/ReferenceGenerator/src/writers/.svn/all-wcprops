@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/src/writers
+END
+FieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8637/trunk/web/java_generate/ReferenceGenerator/src/writers/FieldWriter.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8272/trunk/web/java_generate/ReferenceGenerator/src/writers/FileUtils.java
+END
+LibraryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8620/trunk/web/java_generate/ReferenceGenerator/src/writers/LibraryWriter.java
+END
+ClassWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8637/trunk/web/java_generate/ReferenceGenerator/src/writers/ClassWriter.java
+END
+FunctionWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8637/trunk/web/java_generate/ReferenceGenerator/src/writers/FunctionWriter.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9174/trunk/web/java_generate/ReferenceGenerator/src/writers/IndexWriter.java
+END
+Shared.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8642/trunk/web/java_generate/ReferenceGenerator/src/writers/Shared.java
+END
+BaseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/src/writers/BaseWriter.java
+END
+TemplateWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9174/trunk/web/java_generate/ReferenceGenerator/src/writers/TemplateWriter.java
+END
+LibraryIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/src/writers/LibraryIndexWriter.java
+END
+XMLReferenceWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/src/writers/XMLReferenceWriter.java
+END
+MethodWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8637/trunk/web/java_generate/ReferenceGenerator/src/writers/MethodWriter.java
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2327/trunk/mobile/web/pmwiki-2.1.5/scripts
+END
+pagerev.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2323/trunk/mobile/web/pmwiki-2.1.5/scripts/pagerev.php
+END
+guiedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/guiedit.php
+END
+simuledit.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/simuledit.php
+END
+authuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/authuser.php
+END
+draft.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/draft.php
+END
+httpauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/httpauth.php
+END
+author.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2327/trunk/mobile/web/pmwiki-2.1.5/scripts/author.php
+END
+pgcust.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/pgcust.php
+END
+robots.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/robots.php
+END
+pagelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/pagelist.php
+END
+stdmarkup.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/stdmarkup.php
+END
+mailposts.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/mailposts.php
+END
+vardoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/vardoc.php
+END
+prefs.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/prefs.php
+END
+phpdiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/phpdiff.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/version.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/.htaccess
+END
+forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/forms.php
+END
+feeds.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/feeds.php
+END
+transition.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/transition.php
+END
+compat1x.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/compat1x.php
+END
+trails.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/trails.php
+END
+urlapprove.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/urlapprove.php
+END
+crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/crypt.php
+END
+diag.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/diag.php
+END
+intermap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/intermap.txt
+END
+wikistyles.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/wikistyles.php
+END
+stdconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/stdconfig.php
+END
+xlpage-utf-8.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/xlpage-utf-8.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/upload.php
+END
+refcount.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/refcount.php
+END
+caches.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/caches.php
+END
+skins.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/scripts/skins.php
+END

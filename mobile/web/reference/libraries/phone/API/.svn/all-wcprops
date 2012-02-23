@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API
+END
+Phone_launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_launch.xml
+END
+Phone_call.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_call.xml
+END
+Phone_vibrate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_vibrate.xml
+END
+Phone_flash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_flash.xml
+END
+Phone_noFullscreen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_noFullscreen.xml
+END
+Phone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone.xml
+END
+Phone_fullscreen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1952/trunk/mobile/web/reference/libraries/phone/API/Phone_fullscreen.xml
+END

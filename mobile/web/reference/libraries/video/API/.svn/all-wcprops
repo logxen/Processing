@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2350/trunk/mobile/web/reference/libraries/video/API
+END
+Capture_sourceWidth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_sourceWidth.xml
+END
+Capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2350/trunk/mobile/web/reference/libraries/video/API/Capture.xml
+END
+Capture_show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_show.xml
+END
+Capture_viewX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_viewX.xml
+END
+Capture_viewHeight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_viewHeight.xml
+END
+Capture_viewY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_viewY.xml
+END
+Capture_close.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1743/trunk/mobile/web/reference/libraries/video/API/Capture_close.xml
+END
+Capture_sourceHeight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_sourceHeight.xml
+END
+Capture_hide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_hide.xml
+END
+Capture_viewWidth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_viewWidth.xml
+END
+Capture_read.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2333/trunk/mobile/web/reference/libraries/video/API/Capture_read.xml
+END

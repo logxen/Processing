@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler
+END
+CompilationResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/CompilationResult.class
+END
+SourceElementNotifier$LocalDeclarationVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/SourceElementNotifier$LocalDeclarationVisitor.class
+END
+DefaultErrorHandlingPolicies$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/DefaultErrorHandlingPolicies$1.class
+END
+DefaultErrorHandlingPolicies$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/DefaultErrorHandlingPolicies$2.class
+END
+DefaultErrorHandlingPolicies$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/DefaultErrorHandlingPolicies$3.class
+END
+DefaultErrorHandlingPolicies$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/DefaultErrorHandlingPolicies$4.class
+END
+IErrorHandlingPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/IErrorHandlingPolicy.class
+END
+AbstractAnnotationProcessorManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/AbstractAnnotationProcessorManager.class
+END
+ConfigurableOption.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ConfigurableOption.class
+END
+ClassFile$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ClassFile$1.class
+END
+DefaultErrorHandlingPolicies.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/DefaultErrorHandlingPolicies.class
+END
+ClassFile$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ClassFile$2.class
+END
+ProcessTaskManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ProcessTaskManager.class
+END
+ICompilerRequestor.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ICompilerRequestor.class
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/messages.properties
+END
+ClassFilePool.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ClassFilePool.class
+END
+Compiler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/Compiler$1.class
+END
+IProblemFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/IProblemFactory.class
+END
+CompilationResult$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/CompilationResult$1.class
+END
+ClassFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ClassFile.class
+END
+ReadManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ReadManager.class
+END
+ASTVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/ASTVisitor.class
+END
+IDebugRequestor.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/IDebugRequestor.class
+END
+SourceElementNotifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/SourceElementNotifier.class
+END
+Compiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/Compiler.class
+END

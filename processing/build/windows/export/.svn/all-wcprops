@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8786/trunk/processing/build/windows/export
+END
+launcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8786/trunk/processing/build/windows/export/launcher.cpp
+END
+application.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8786/trunk/processing/build/windows/export/application.exe
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8781/trunk/processing/build/windows/export/Makefile
+END

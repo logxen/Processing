@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util
+END
+Options.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/Options.class
+END
+EclipseFileObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/EclipseFileObject.class
+END
+ManyToMany.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/ManyToMany.class
+END
+Util.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/Util.class
+END
+EclipseFileManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/EclipseFileManager.class
+END
+Archive.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/Archive.class
+END
+Util$EncodingError.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/Util$EncodingError.class
+END
+ArchiveFileObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/ArchiveFileObject.class
+END
+Util$EncodingErrorCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/util/Util$EncodingErrorCollector.class
+END

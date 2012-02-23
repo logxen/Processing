@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters
+END
+TokenFilter$StringTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$StringTokenizer.class
+END
+FixCrLfFilter$AddTabFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$AddTabFilter.class
+END
+ConcatFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ConcatFilter.class
+END
+FixCrLfFilter$AddAsisRemove.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$AddAsisRemove.class
+END
+StripLineComments.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/StripLineComments.class
+END
+FixCrLfFilter$AddEofFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$AddEofFilter.class
+END
+TokenFilter$ContainsString.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$ContainsString.class
+END
+TokenFilter$FileTokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$FileTokenizer.class
+END
+PrefixLines.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/PrefixLines.class
+END
+TailFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TailFilter.class
+END
+LineContainsRegExp.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/LineContainsRegExp.class
+END
+ClassConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ClassConstants.class
+END
+BaseFilterReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/BaseFilterReader.class
+END
+ReplaceTokens$Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ReplaceTokens$Token.class
+END
+FixCrLfFilter$SimpleFilterReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$SimpleFilterReader.class
+END
+TokenFilter$ChainableReaderFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$ChainableReaderFilter.class
+END
+TokenFilter$ReplaceString.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$ReplaceString.class
+END
+TokenFilter$DeleteCharacters.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$DeleteCharacters.class
+END
+FixCrLfFilter$CrLf.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$CrLf.class
+END
+TokenFilter$ReplaceRegex.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$ReplaceRegex.class
+END
+FixCrLfFilter$RemoveTabFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$RemoveTabFilter.class
+END
+FixCrLfFilter$MaskJavaTabLiteralsFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$MaskJavaTabLiteralsFilter.class
+END
+BaseParamFilterReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/BaseParamFilterReader.class
+END
+TokenFilter$ContainsRegex.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$ContainsRegex.class
+END
+FixCrLfFilter$RemoveEofFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$RemoveEofFilter.class
+END
+LineContains.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/LineContains.class
+END
+TokenFilter$Trim.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$Trim.class
+END
+TokenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter.class
+END
+LineContains$Contains.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/LineContains$Contains.class
+END
+ChainableReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ChainableReader.class
+END
+TabsToSpaces.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TabsToSpaces.class
+END
+ExpandProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ExpandProperties.class
+END
+FixCrLfFilter$NormalizeEolFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter$NormalizeEolFilter.class
+END
+ReplaceTokens.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/ReplaceTokens.class
+END
+TokenFilter$Filter.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$Filter.class
+END
+StripLineBreaks.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/StripLineBreaks.class
+END
+TokenFilter$DeleteCharacters$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$DeleteCharacters$1.class
+END
+StringInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/StringInputStream.class
+END
+FixCrLfFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/FixCrLfFilter.class
+END
+StripLineComments$Comment.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/StripLineComments$Comment.class
+END
+TokenFilter$IgnoreBlank.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/TokenFilter$IgnoreBlank.class
+END
+HeadFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/HeadFilter.class
+END
+EscapeUnicode.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/EscapeUnicode.class
+END
+StripJavaComments.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/filters/StripJavaComments.class
+END

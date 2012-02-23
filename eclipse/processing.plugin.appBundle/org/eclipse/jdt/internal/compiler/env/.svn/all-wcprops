@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env
+END
+ISourceType.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ISourceType.class
+END
+ISourceField.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ISourceField.class
+END
+INameEnvironment.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/INameEnvironment.class
+END
+IDependent.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IDependent.class
+END
+IBinaryElementValuePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryElementValuePair.class
+END
+NameEnvironmentAnswer.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/NameEnvironmentAnswer.class
+END
+IGenericMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IGenericMethod.class
+END
+IGenericType.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IGenericType.class
+END
+ClassSignature.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ClassSignature.class
+END
+ICompilationUnit.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ICompilationUnit.class
+END
+AccessRestriction.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/AccessRestriction.class
+END
+IBinaryAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryAnnotation.class
+END
+AccessRule.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/AccessRule.class
+END
+IGenericField.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IGenericField.class
+END
+IBinaryMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryMethod.class
+END
+IBinaryType.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryType.class
+END
+EnumConstantSignature.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/EnumConstantSignature.class
+END
+IBinaryField.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryField.class
+END
+IBinaryNestedType.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/IBinaryNestedType.class
+END
+ISourceImport.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ISourceImport.class
+END
+AccessRuleSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/AccessRuleSet.class
+END
+ISourceMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/env/ISourceMethod.class
+END

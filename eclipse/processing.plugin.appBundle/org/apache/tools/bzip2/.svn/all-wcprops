@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2
+END
+CBZip2InputStream$Data.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/CBZip2InputStream$Data.class
+END
+BZip2Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/BZip2Constants.class
+END
+CBZip2OutputStream$Data.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/CBZip2OutputStream$Data.class
+END
+CBZip2InputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/CBZip2InputStream.class
+END
+CBZip2OutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/CBZip2OutputStream.class
+END
+CRC.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/bzip2/CRC.class
+END

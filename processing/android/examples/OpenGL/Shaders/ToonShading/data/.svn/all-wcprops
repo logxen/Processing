@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9205/trunk/processing/android/examples/OpenGL/Shaders/ToonShading/data
+END
+ToonFrag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9205/trunk/processing/android/examples/OpenGL/Shaders/ToonShading/data/ToonFrag.glsl
+END
+ToonVert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9205/trunk/processing/android/examples/OpenGL/Shaders/ToonShading/data/ToonVert.glsl
+END

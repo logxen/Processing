@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug
+END
+SystemOutSiphon.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/SystemOutSiphon.class
+END
+RunnerListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/RunnerListener.class
+END
+Compiler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/Compiler$1.class
+END
+MessageStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/MessageStream.class
+END
+MessageConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/MessageConsumer.class
+END
+EventThread$ThreadTrace.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/EventThread$ThreadTrace.class
+END
+MessageSiphon.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/MessageSiphon.class
+END
+RunnerException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/RunnerException.class
+END
+Runner.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/Runner.class
+END
+EventThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/EventThread.class
+END
+Compiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/debug/Compiler.class
+END

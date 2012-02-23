@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax
+END
+InputHandler.Wrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.Wrapper.html
+END
+TextUtilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/TextUtilities.html
+END
+InputHandler.next_line.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.next_line.html
+END
+TokenMarker.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/TokenMarker.html
+END
+InputHandler.home.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.home.html
+END
+SyntaxDocument.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/SyntaxDocument.html
+END
+CTokenMarker.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/CTokenMarker.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/package-tree.html
+END
+InputHandler.toggle_rect.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.toggle_rect.html
+END
+InputHandler.insert_char.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.insert_char.html
+END
+Brackets.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/Brackets.html
+END
+TextAreaPainter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/TextAreaPainter.html
+END
+InputHandler.document_end.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.document_end.html
+END
+DefaultInputHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/DefaultInputHandler.html
+END
+InputHandler.prev_word.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.prev_word.html
+END
+InputHandler.prev_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.prev_page.html
+END
+InputHandler.prev_char.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.prev_char.html
+END
+TextAreaPainter.Highlight.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/TextAreaPainter.Highlight.html
+END
+InputHandler.NonRecordable.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.NonRecordable.html
+END
+InputHandler.NonRepeatable.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.NonRepeatable.html
+END
+InputHandler.repeat.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.repeat.html
+END
+InputHandler.prev_line.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.prev_line.html
+END
+Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/Token.html
+END
+InputHandler.overwrite.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.overwrite.html
+END
+KeywordMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/KeywordMap.html
+END
+InputHandler.document_home.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.document_home.html
+END
+SyntaxUtilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/SyntaxUtilities.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/package-frame.html
+END
+InputHandler.MacroRecorder.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.MacroRecorder.html
+END
+InputHandler.clipboard_copy.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/6951/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.clipboard_copy.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/package-summary.html
+END
+InputHandler.insert_tab.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.insert_tab.html
+END
+InputHandler.clipboard_paste.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6951/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.clipboard_paste.html
+END
+InputHandler.delete_word.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.delete_word.html
+END
+InputHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.html
+END
+JEditTextArea.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/JEditTextArea.html
+END
+InputHandler.delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.delete.html
+END
+PdeTextAreaDefaults.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/PdeTextAreaDefaults.html
+END
+PdeKeywords.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/PdeKeywords.html
+END
+InputHandler.end.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.end.html
+END
+InputHandler.backspace_word.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.backspace_word.html
+END
+InputHandler.insert_break.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.insert_break.html
+END
+TextAreaDefaults.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7913/trunk/processing/build/javadoc/everything/processing/app/syntax/TextAreaDefaults.html
+END
+InputHandler.next_word.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.next_word.html
+END
+InputHandler.next_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.next_page.html
+END
+InputHandler.clipboard_cut.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6951/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.clipboard_cut.html
+END
+InputHandler.next_char.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.next_char.html
+END
+SyntaxStyle.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/SyntaxStyle.html
+END
+InputHandler.backspace.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6950/trunk/processing/build/javadoc/everything/processing/app/syntax/InputHandler.backspace.html
+END

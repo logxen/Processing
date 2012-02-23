@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp/build.bat
+END
+SimpleApp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp/SimpleApp.jar
+END
+SimpleApp.exe
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp/SimpleApp.exe
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp/readme.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/demo/SimpleApp/build.xml
+END

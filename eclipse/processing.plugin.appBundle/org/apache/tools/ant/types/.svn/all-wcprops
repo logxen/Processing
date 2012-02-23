@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types
+END
+FlexInteger.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FlexInteger.class
+END
+Substitution.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Substitution.class
+END
+XMLCatalog$CatalogResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/XMLCatalog$CatalogResolver.class
+END
+Assertions$DisabledAssertion.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Assertions$DisabledAssertion.class
+END
+AbstractFileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/AbstractFileSet.class
+END
+ResourceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ResourceFactory.class
+END
+Parameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Parameter.class
+END
+Mapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Mapper.class
+END
+Resource.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Resource.class
+END
+CommandlineJava.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/CommandlineJava.class
+END
+FilterSet$FiltersFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterSet$FiltersFile.class
+END
+TarScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/TarScanner.class
+END
+Environment.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Environment.class
+END
+CommandlineJava$SysProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/CommandlineJava$SysProperties.class
+END
+AntFilterReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/AntFilterReader.class
+END
+ZipScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ZipScanner.class
+END
+Resource$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Resource$1.class
+END
+PropertySet$BuiltinPropertySetName.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PropertySet$BuiltinPropertySetName.class
+END
+XMLCatalog$InternalResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/XMLCatalog$InternalResolver.class
+END
+Environment$Variable.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Environment$Variable.class
+END
+PatternSet$NameEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PatternSet$NameEntry.class
+END
+Description.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Description.class
+END
+XMLCatalog$ExternalResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/XMLCatalog$ExternalResolver.class
+END
+Path$PathElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Path$PathElement.class
+END
+Permissions$Permission.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Permissions$Permission.class
+END
+FilterChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterChain.class
+END
+Assertions.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Assertions.class
+END
+FileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FileSet.class
+END
+Quantifier$Predicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$Predicate.class
+END
+Commandline$Marker.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Commandline$Marker.class
+END
+Path.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Path.class
+END
+Quantifier$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$2.class
+END
+ArchiveFileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ArchiveFileSet.class
+END
+Reference.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Reference.class
+END
+Quantifier$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$4.class
+END
+Assertions$EnabledAssertion.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Assertions$EnabledAssertion.class
+END
+FilterSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterSet.class
+END
+ResourceCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ResourceCollection.class
+END
+DTDLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/DTDLocation.class
+END
+DataType.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/DataType.class
+END
+Permissions.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Permissions.class
+END
+RedirectorElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/RedirectorElement.class
+END
+EnumeratedAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/EnumeratedAttribute.class
+END
+ResourceLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ResourceLocation.class
+END
+RegularExpression.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/RegularExpression.class
+END
+Permissions$MySM.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Permissions$MySM.class
+END
+PropertySet$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PropertySet$1.class
+END
+Commandline.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Commandline.class
+END
+TimeComparison.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/TimeComparison.class
+END
+DirSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/DirSet.class
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/defaults.properties
+END
+Mapper$MapperType.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Mapper$MapperType.class
+END
+Permissions$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Permissions$1.class
+END
+TarFileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/TarFileSet.class
+END
+PropertySet$PropertyRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PropertySet$PropertyRef.class
+END
+Quantifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier.class
+END
+LogLevel.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/LogLevel.class
+END
+Comparison.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Comparison.class
+END
+FilterSet$Filter.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterSet$Filter.class
+END
+FileList.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FileList.class
+END
+FilterSetCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterSetCollection.class
+END
+ZipFileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ZipFileSet.class
+END
+FileList$FileName.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FileList$FileName.class
+END
+Assertions$BaseAssertion.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Assertions$BaseAssertion.class
+END
+PatternSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PatternSet.class
+END
+ArchiveScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/ArchiveScanner.class
+END
+XMLCatalog.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/XMLCatalog.class
+END
+FilterSet$OnMissing.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/FilterSet$OnMissing.class
+END
+Quantifier$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$1.class
+END
+Commandline$Argument.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Commandline$Argument.class
+END
+Quantifier$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$3.class
+END
+Quantifier$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Quantifier$5.class
+END
+PropertySet.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/PropertySet.class
+END
+Parameterizable.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/Parameterizable.class
+END

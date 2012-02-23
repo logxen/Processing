@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/dxf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/dxf/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/dxf/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/dxf/build.xml
+END
+dxfviewer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/dxf/dxfviewer.jar
+END

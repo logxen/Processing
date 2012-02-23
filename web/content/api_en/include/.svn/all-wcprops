@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9114/trunk/web/content/api_en/include
+END
+String_equals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_equals.xml
+END
+lessthan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/lessthan.xml
+END
+HashMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/HashMap.xml
+END
+String_indexOf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_indexOf.xml
+END
+break.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/break.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/default.xml
+END
+dot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/dot.xml
+END
+for.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/for.xml
+END
+leftshift.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/leftshift.xml
+END
+minus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/minus.xml
+END
+directive_pauseonblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directive_pauseonblur.xml
+END
+super.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/super.xml
+END
+long.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/long.xml
+END
+greaterthanorequalto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/greaterthanorequalto.xml
+END
+switch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/switch.xml
+END
+conditional.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/conditional.xml
+END
+byte.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/byte.xml
+END
+greaterthan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/greaterthan.xml
+END
+class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9065/trunk/web/content/api_en/include/class.xml
+END
+BufferedReader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9041/trunk/web/content/api_en/include/BufferedReader.xml
+END
+color_datatype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8694/trunk/web/content/api_en/include/color_datatype.xml
+END
+null.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/null.xml
+END
+import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/import.xml
+END
+private.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/private.xml
+END
+logicalOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8699/trunk/web/content/api_en/include/logicalOR.xml
+END
+lessthanorequalto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/lessthanorequalto.xml
+END
+curlybraces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/curlybraces.xml
+END
+directive_crisp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directive_crisp.xml
+END
+String_toUpperCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_toUpperCase.xml
+END
+catch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/catch.xml
+END
+directive_preload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directive_preload.xml
+END
+multilinecomment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/multilinecomment.xml
+END
+doccomment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/doccomment.xml
+END
+bitwiseAND.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/bitwiseAND.xml
+END
+int.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/int.xml
+END
+false.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/false.xml
+END
+intconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/intconvert.xml
+END
+addition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/addition.xml
+END
+subtractassign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/subtractassign.xml
+END
+void.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/void.xml
+END
+this.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/this.xml
+END
+String_length.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_length.xml
+END
+while.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8719/trunk/web/content/api_en/include/while.xml
+END
+strconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/strconvert.xml
+END
+double.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/double.xml
+END
+case.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/case.xml
+END
+implements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9054/trunk/web/content/api_en/include/implements.xml
+END
+char.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/char.xml
+END
+public.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/public.xml
+END
+Array.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/Array.xml
+END
+PrintWriter_close.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/PrintWriter_close.xml
+END
+true.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/true.xml
+END
+return.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/return.xml
+END
+parentheses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/parentheses.xml
+END
+multiplyassign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/multiplyassign.xml
+END
+increment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/increment.xml
+END
+inequality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/inequality.xml
+END
+assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/assign.xml
+END
+static.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/static.xml
+END
+else.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8699/trunk/web/content/api_en/include/else.xml
+END
+new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/new.xml
+END
+PrintWriter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/PrintWriter.xml
+END
+PrintWriter_flush.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/PrintWriter_flush.xml
+END
+logicalNOT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8699/trunk/web/content/api_en/include/logicalNOT.xml
+END
+directive_globalkeyevents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directive_globalkeyevents.xml
+END
+logicalAND.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8699/trunk/web/content/api_en/include/logicalAND.xml
+END
+equality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/equality.xml
+END
+if.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/if.xml
+END
+modulo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/modulo.xml
+END
+PrintWriter_println.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/PrintWriter_println.xml
+END
+comment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/comment.xml
+END
+divide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/divide.xml
+END
+directive_font.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directive_font.xml
+END
+float.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9064/trunk/web/content/api_en/include/float.xml
+END
+decrement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/decrement.xml
+END
+String_substring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_substring.xml
+END
+charconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/charconvert.xml
+END
+multiply.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/multiply.xml
+END
+booleanconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/booleanconvert.xml
+END
+continue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/continue.xml
+END
+String_charAt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_charAt.xml
+END
+semicolon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/semicolon.xml
+END
+final.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/final.xml
+END
+comma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/comma.xml
+END
+addassign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/addassign.xml
+END
+arrayaccess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/arrayaccess.xml
+END
+directives.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9114/trunk/web/content/api_en/include/directives.xml
+END
+byteconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/byteconvert.xml
+END
+PrintWriter_print.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/PrintWriter_print.xml
+END
+String.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String.xml
+END
+floatconvert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/floatconvert.xml
+END
+Object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/Object.xml
+END
+bitwiseOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/bitwiseOR.xml
+END
+BufferedReader_readLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9041/trunk/web/content/api_en/include/BufferedReader_readLine.xml
+END
+divideassign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/divideassign.xml
+END
+extends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9054/trunk/web/content/api_en/include/extends.xml
+END
+ArrayList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/ArrayList.xml
+END
+rightshift.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8638/trunk/web/content/api_en/include/rightshift.xml
+END
+String_toLowerCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9052/trunk/web/content/api_en/include/String_toLowerCase.xml
+END
+try.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8578/trunk/web/content/api_en/include/try.xml
+END
+boolean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8744/trunk/web/content/api_en/include/boolean.xml
+END

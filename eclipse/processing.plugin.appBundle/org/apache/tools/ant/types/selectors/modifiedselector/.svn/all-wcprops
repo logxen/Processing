@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector
+END
+ModifiedSelector$AlgorithmName.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector$AlgorithmName.class
+END
+ModifiedSelector$ComparatorName.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector$ComparatorName.class
+END
+EqualComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/EqualComparator.class
+END
+PropertiesfileCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/PropertiesfileCache.class
+END
+ModifiedSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector.class
+END
+Cache.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/Cache.class
+END
+Algorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/Algorithm.class
+END
+DigestAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/DigestAlgorithm.class
+END
+HashvalueAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/HashvalueAlgorithm.class
+END
+ChecksumAlgorithm.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/ChecksumAlgorithm.class
+END
+ModifiedSelector$CacheName.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector$CacheName.class
+END

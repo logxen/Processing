@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.core/src/processing/plugin/core/builder
+END
+IncrementalChangeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.core/src/processing/plugin/core/builder/IncrementalChangeProcessor.java
+END
+SketchProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.core/src/processing/plugin/core/builder/SketchProject.java
+END
+SketchBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.core/src/processing/plugin/core/builder/SketchBuilder.java
+END

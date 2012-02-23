@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools
+END
+Uncrustify.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/Uncrustify.class
+END
+CheckBoxList$CellRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CheckBoxList$CellRenderer.class
+END
+ColorSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector.class
+END
+CreateFont.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont.class
+END
+ColorSelector$NumberDocument.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$NumberDocument.class
+END
+FixEncoding.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/FixEncoding.class
+END
+CharacterSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CharacterSelector.class
+END
+Archiver.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/Archiver.class
+END
+ColorSelector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$1.class
+END
+SampleComponent.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/SampleComponent.class
+END
+ColorSelector$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$2.class
+END
+ColorSelector$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$3.class
+END
+ColorSelector$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$4.class
+END
+DiscourseFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/DiscourseFormat.class
+END
+Tool.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/Tool.class
+END
+AutoFormatTool.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/AutoFormatTool.class
+END
+CreateFont$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$1.class
+END
+CreateFont$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$2.class
+END
+CreateFont$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$3.class
+END
+CharacterSelector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CharacterSelector$1.class
+END
+CreateFont$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$4.class
+END
+CheckBoxList.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CheckBoxList.class
+END
+CharacterSelector$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CharacterSelector$2.class
+END
+CreateFont$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$5.class
+END
+CreateFont$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$6.class
+END
+CharacterSelector$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CharacterSelector$3.class
+END
+ColorSelector$ColorSlider.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$ColorSlider.class
+END
+CreateFont$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CreateFont$7.class
+END
+SampleComponent$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/SampleComponent$1.class
+END
+DiscourseFormat$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/DiscourseFormat$1.class
+END
+ColorSelector$ColorRange.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$ColorRange.class
+END
+ColorSelector$NumberField.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/ColorSelector$NumberField.class
+END
+CheckBoxList$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/tools/CheckBoxList$1.class
+END

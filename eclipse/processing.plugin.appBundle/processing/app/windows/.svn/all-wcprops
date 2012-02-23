@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows
+END
+Advapi32$Handler.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$Handler.class
+END
+WINBASE$FILETIME.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINBASE$FILETIME.class
+END
+Options$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Options$1.class
+END
+Registry$REGISTRY_ROOT_KEY.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Registry$REGISTRY_ROOT_KEY.class
+END
+Platform.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Platform.class
+END
+Advapi32$SERVICE_TABLE_ENTRY.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$SERVICE_TABLE_ENTRY.class
+END
+Advapi32$ChangeServiceConfig2Info.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$ChangeServiceConfig2Info.class
+END
+WINBASE.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINBASE.class
+END
+WINBASE$SECURITY_ATTRIBUTES.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINBASE$SECURITY_ATTRIBUTES.class
+END
+WINREG.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINREG.class
+END
+Options.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Options.class
+END
+WINNT.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINNT.class
+END
+Platform$WinLibC.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Platform$WinLibC.class
+END
+Advapi32$SERVICE_DESCRIPTION.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$SERVICE_DESCRIPTION.class
+END
+Advapi32$SERVICE_STATUS.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$SERVICE_STATUS.class
+END
+Advapi32$SERVICE_MAIN_FUNCTION.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$SERVICE_MAIN_FUNCTION.class
+END
+WINERROR.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/WINERROR.class
+END
+Registry.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Registry.class
+END
+Advapi32$HandlerEx.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32$HandlerEx.class
+END
+Advapi32.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/windows/Advapi32.class
+END

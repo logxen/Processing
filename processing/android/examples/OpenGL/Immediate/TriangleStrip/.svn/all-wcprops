@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Immediate/TriangleStrip
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Immediate/TriangleStrip/AndroidManifest.xml
+END
+TriangleStrip.pde
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Immediate/TriangleStrip/TriangleStrip.pde
+END

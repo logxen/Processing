@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7554/trunk/processing/app/test/src/test/processing/mode/java
+END
+ParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7554/trunk/processing/app/test/src/test/processing/mode/java/ParserTests.java
+END
+UTCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7554/trunk/processing/app/test/src/test/processing/mode/java/UTCompiler.java
+END
+AutoFormatTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7554/trunk/processing/app/test/src/test/processing/mode/java/AutoFormatTests.java
+END
+ProcessingTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7554/trunk/processing/app/test/src/test/processing/mode/java/ProcessingTestUtil.java
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9215/trunk/processing/app/src/processing/app
+END
+EditorHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7643/trunk/processing/app/src/processing/app/EditorHeader.java
+END
+SketchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/SketchException.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8100/trunk/processing/app/src/processing/app/Settings.java
+END
+SketchReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7738/trunk/processing/app/src/processing/app/SketchReference.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/Preferences.java
+END
+EditorLineStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8092/trunk/processing/app/src/processing/app/EditorLineStatus.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/Formatter.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8887/trunk/processing/app/src/processing/app/Library.java
+END
+WebServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7397/trunk/processing/app/src/processing/app/WebServer.java
+END
+SingleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/SingleInstance.java
+END
+EditorToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7793/trunk/processing/app/src/processing/app/EditorToolbar.java
+END
+EditorConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7554/trunk/processing/app/src/processing/app/EditorConsole.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9215/trunk/processing/app/src/processing/app/Base.java
+END
+SketchCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7873/trunk/processing/app/src/processing/app/SketchCode.java
+END
+FindReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7872/trunk/processing/app/src/processing/app/FindReplace.java
+END
+RunnerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7640/trunk/processing/app/src/processing/app/RunnerListener.java
+END
+Recent.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/Recent.java
+END
+UpdateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/UpdateCheck.java
+END
+Sketch.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7873/trunk/processing/app/src/processing/app/Sketch.java
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5807/trunk/processing/app/src/processing/app/Platform.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/Mode.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/Editor.java
+END
+EditorState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/app/EditorState.java
+END
+EditorStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7846/trunk/processing/app/src/processing/app/EditorStatus.java
+END

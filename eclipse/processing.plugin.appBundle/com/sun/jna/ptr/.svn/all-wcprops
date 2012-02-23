@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr
+END
+ByteByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/ByteByReference.class
+END
+FloatByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/FloatByReference.class
+END
+NativeLongByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/NativeLongByReference.class
+END
+DoubleByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/DoubleByReference.class
+END
+IntByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/IntByReference.class
+END
+ByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/ByReference.class
+END
+ShortByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/ShortByReference.class
+END
+LongByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/LongByReference.class
+END
+PointerByReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/com/sun/jna/ptr/PointerByReference.class
+END

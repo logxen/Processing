@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/util
+END
+ProcessingWordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/util/ProcessingWordDetector.java
+END
+ProcessingWhitespaceDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/util/ProcessingWhitespaceDetector.java
+END
+ProcessingColorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/util/ProcessingColorProvider.java
+END

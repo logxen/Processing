@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library/export.txt
+END
+rxtxSerial.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library/rxtxSerial.dll
+END
+librxtxSerial.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library/librxtxSerial.jnilib
+END
+serial.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library/serial.jar
+END
+RXTXcomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/serial/library/RXTXcomm.jar
+END

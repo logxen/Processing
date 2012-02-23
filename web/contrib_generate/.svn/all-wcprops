@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9242/trunk/web/contrib_generate
+END
+build_listing.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8752/trunk/web/contrib_generate/build_listing.py
+END
+contributions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9242/trunk/web/contrib_generate/contributions.txt
+END
+contributions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8528/trunk/web/contrib_generate/contributions.xml
+END
+sources.conf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9242/trunk/web/contrib_generate/sources.conf
+END

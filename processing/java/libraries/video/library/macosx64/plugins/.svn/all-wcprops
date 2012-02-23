@@ -1,0 +1,941 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins
+END
+libgstmpegdemux.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpegdemux.so
+END
+libgstosxaudio.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstosxaudio.so
+END
+libgstjp2kdecimator.so
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstjp2kdecimator.so
+END
+libgstdecodebin2.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdecodebin2.so
+END
+libgstauparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstauparse.so
+END
+libgstaudioparsers.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudioparsers.so
+END
+libgstapplemedia.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstapplemedia.so
+END
+libgstvorbis.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvorbis.so
+END
+libgstflxdec.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstflxdec.so
+END
+libgstmusepack.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmusepack.so
+END
+libgstcdxaparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcdxaparse.so
+END
+libgstvideomixer.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideomixer.so
+END
+libgstdebugutilsbad.so
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdebugutilsbad.so
+END
+libgstcoloreffects.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcoloreffects.so
+END
+libgstwavenc.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstwavenc.so
+END
+libgstmpegpsmux.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpegpsmux.so
+END
+libgstosxvideosink.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstosxvideosink.so
+END
+libgsticydemux.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsticydemux.so
+END
+libgstfieldanalysis.so
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstfieldanalysis.so
+END
+libgstdvbsuboverlay.so
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdvbsuboverlay.so
+END
+libgstfrei0r.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstfrei0r.so
+END
+libgstvideomaxrate.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideomaxrate.so
+END
+libgstmultifile.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmultifile.so
+END
+libgstannodex.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstannodex.so
+END
+libgstbz2.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstbz2.so
+END
+libgstplaybin.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstplaybin.so
+END
+libgstspeed.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstspeed.so
+END
+libgststereo.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgststereo.so
+END
+libgstequalizer.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstequalizer.so
+END
+libgstvmnc.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvmnc.so
+END
+libgstvolume.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvolume.so
+END
+libgstxvid.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstxvid.so
+END
+libgstvideofilter.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideofilter.so
+END
+libgstffmpegscale.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstffmpegscale.so
+END
+libgstrfbsrc.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrfbsrc.so
+END
+libgsteffectv.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsteffectv.so
+END
+libgstalphacolor.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstalphacolor.so
+END
+libgstmulaw.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmulaw.so
+END
+libgstvideomeasure.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideomeasure.so
+END
+libgsttta.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsttta.so
+END
+libgstpnm.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstpnm.so
+END
+libgstcolorspace.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcolorspace.so
+END
+libgstaudiofx.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudiofx.so
+END
+libgstnavigationtest.so
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstnavigationtest.so
+END
+libgstasfmux.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstasfmux.so
+END
+libgstinvtelecine.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstinvtelecine.so
+END
+libgstvideofiltersbad.so
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideofiltersbad.so
+END
+libgstdtsdec.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdtsdec.so
+END
+libgstsegmentclip.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsegmentclip.so
+END
+libgstmpegvideoparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpegvideoparse.so
+END
+libgstavi.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstavi.so
+END
+libgstmultipart.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmultipart.so
+END
+libgstximagesrc.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstximagesrc.so
+END
+libgstsubparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsubparse.so
+END
+libgsttcp.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsttcp.so
+END
+libgstflv.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstflv.so
+END
+libgstmve.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmve.so
+END
+libgstgaudieffects.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgaudieffects.so
+END
+libgstrtpmanager.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrtpmanager.so
+END
+libgstautodetect.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstautodetect.so
+END
+libgstgoom.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgoom.so
+END
+libgstgsettingselements.so
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgsettingselements.so
+END
+libgstvideosignal.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideosignal.so
+END
+libgstlevel.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstlevel.so
+END
+libgstoss4audio.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstoss4audio.so
+END
+libgstgeometrictransform.so
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgeometrictransform.so
+END
+libgstscaletempoplugin.so
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstscaletempoplugin.so
+END
+libgsthdvparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsthdvparse.so
+END
+libgstefence.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstefence.so
+END
+libgstencodebin.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstencodebin.so
+END
+libgstudp.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstudp.so
+END
+libgstsdpelem.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsdpelem.so
+END
+libgstreplaygain.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstreplaygain.so
+END
+libgstlegacyresample.so
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstlegacyresample.so
+END
+libgstjpegformat.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstjpegformat.so
+END
+libgstaudioconvert.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudioconvert.so
+END
+libgstffmpeg.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstffmpeg.so
+END
+libgstdvdspu.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdvdspu.so
+END
+libgstdv.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdv.so
+END
+libgsttypefindfunctions.so
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsttypefindfunctions.so
+END
+libgstid3tag.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstid3tag.so
+END
+libgsth264parse.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsth264parse.so
+END
+libgstsubenc.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsubenc.so
+END
+libgstsdi.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsdi.so
+END
+libgstvideobox.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideobox.so
+END
+libgstrawparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrawparse.so
+END
+libgstalpha.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstalpha.so
+END
+libgsty4mdec.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsty4mdec.so
+END
+libgstmpegtsmux.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpegtsmux.so
+END
+libgstdtmf.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdtmf.so
+END
+libgstaudioresample.so
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudioresample.so
+END
+libgstliveadder.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstliveadder.so
+END
+libgstadpcmdec.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstadpcmdec.so
+END
+libgstdataurisrc.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdataurisrc.so
+END
+libgstspectrum.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstspectrum.so
+END
+libgstrtpvp8.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrtpvp8.so
+END
+libgstrtp.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrtp.so
+END
+libgstinterlace.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstinterlace.so
+END
+libgstcutter.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcutter.so
+END
+libgstdccp.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdccp.so
+END
+libgstgdp.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgdp.so
+END
+libgstnuvdemux.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstnuvdemux.so
+END
+libgstfestival.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstfestival.so
+END
+libgstvideoparsersbad.so
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideoparsersbad.so
+END
+libgstvideotestsrc.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideotestsrc.so
+END
+libgstdeinterlace.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdeinterlace.so
+END
+libgstmatroska.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmatroska.so
+END
+libgstvideorate.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideorate.so
+END
+libgstalaw.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstalaw.so
+END
+libgstsmpte.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsmpte.so
+END
+libgstvideocrop.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideocrop.so
+END
+libgstmxf.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmxf.so
+END
+libgstinterleave.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstinterleave.so
+END
+libgstmpeg4videoparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpeg4videoparse.so
+END
+libgsty4menc.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsty4menc.so
+END
+libgstrtpmux.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrtpmux.so
+END
+libgstapetag.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstapetag.so
+END
+libgstbayer.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstbayer.so
+END
+libgstcamerabin2.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcamerabin2.so
+END
+libgstjp2k.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstjp2k.so
+END
+libgstdc1394.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdc1394.so
+END
+libgstadpcmenc.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstadpcmenc.so
+END
+libgstisomp4.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstisomp4.so
+END
+libgstogg.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstogg.so
+END
+libgstdecodebin.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdecodebin.so
+END
+libgstfragmented.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstfragmented.so
+END
+libgstaudiorate.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudiorate.so
+END
+libgstpcapparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstpcapparse.so
+END
+libgstgio.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgio.so
+END
+libgstffmpegcolorspace.so
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstffmpegcolorspace.so
+END
+libgstsiren.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstsiren.so
+END
+libgstapexsink.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstapexsink.so
+END
+libgstnsf.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstnsf.so
+END
+libgstpatchdetect.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstpatchdetect.so
+END
+libgstwavparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstwavparse.so
+END
+libgstcoreindexers.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcoreindexers.so
+END
+libgstmpegtsdemux.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstmpegtsdemux.so
+END
+libgstaiff.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaiff.so
+END
+libgstaudiotestsrc.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstaudiotestsrc.so
+END
+libgstautoconvert.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstautoconvert.so
+END
+libgstpostproc.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstpostproc.so
+END
+libgstvideoscale.so
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstvideoscale.so
+END
+libgstadder.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstadder.so
+END
+libgstgoom2k1.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstgoom2k1.so
+END
+libgstivfparse.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstivfparse.so
+END
+libgstapp.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstapp.so
+END
+libgstfreeze.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstfreeze.so
+END
+libgstcamerabin.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcamerabin.so
+END
+libgsttheora.so
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgsttheora.so
+END
+libgstid3demux.so
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstid3demux.so
+END
+libgstreal.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstreal.so
+END
+libgstimagefreeze.so
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstimagefreeze.so
+END
+libgstshapewipe.so
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstshapewipe.so
+END
+libgstcoreelements.so
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstcoreelements.so
+END
+libgstdebug.so
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstdebug.so
+END
+libgstrtsp.so
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/plugins/libgstrtsp.so
+END

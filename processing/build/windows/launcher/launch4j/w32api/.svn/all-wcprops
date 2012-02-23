@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/w32api
+END
+libadvapi32.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libadvapi32.a
+END
+MinGW.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/MinGW.LICENSE.txt
+END
+libgcc.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libgcc.a
+END
+libshell32.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libshell32.a
+END
+libmsvcrt.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libmsvcrt.a
+END
+crt2.o
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/w32api/crt2.o
+END
+libuser32.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libuser32.a
+END
+libkernel32.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libkernel32.a
+END
+libmingw32.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/w32api/libmingw32.a
+END

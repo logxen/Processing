@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8828/trunk/processing/build/macosx/template.app/Contents/Resources/Java
+END
+libquaqua64.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8828/trunk/processing/build/macosx/template.app/Contents/Resources/Java/libquaqua64.jnilib
+END
+quaqua.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8828/trunk/processing/build/macosx/template.app/Contents/Resources/Java/quaqua.jar
+END
+libquaqua.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8828/trunk/processing/build/macosx/template.app/Contents/Resources/Java/libquaqua.jnilib
+END

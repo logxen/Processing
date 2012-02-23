@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor
+END
+ProcessingPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/ProcessingPartitionScanner.java
+END
+ProcessingEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/ProcessingEditor.java
+END
+ProcessingSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7406/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/ProcessingSourceViewerConfiguration.java
+END
+ProcessingAnnotationHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/ProcessingAnnotationHover.java
+END
+ProcessingDocumentSetupParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/editor/ProcessingDocumentSetupParticipant.java
+END

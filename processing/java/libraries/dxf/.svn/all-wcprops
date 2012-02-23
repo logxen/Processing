@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8877/trunk/processing/java/libraries/dxf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7592/trunk/processing/java/libraries/dxf/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7592/trunk/processing/java/libraries/dxf/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7801/trunk/processing/java/libraries/dxf/build.xml
+END
+dxfviewer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7592/trunk/processing/java/libraries/dxf/dxfviewer.jar
+END

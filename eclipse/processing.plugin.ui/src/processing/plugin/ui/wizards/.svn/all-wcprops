@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards
+END
+ExportAsAppletSelectProjectsWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/ExportAsAppletSelectProjectsWizardPage.java
+END
+NewSketchWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/NewSketchWizardPage.java
+END
+ImportSketchWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/ImportSketchWizardPage.java
+END
+ExportAsAppletWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/ExportAsAppletWizard.java
+END
+NewSketchWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/NewSketchWizard.java
+END
+ImportSketchWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.ui/src/processing/plugin/ui/wizards/ImportSketchWizard.java
+END

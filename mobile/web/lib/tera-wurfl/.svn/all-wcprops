@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3752/trunk/mobile/web/lib/tera-wurfl
+END
+tera_wurfl_config.php.example
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3037/trunk/mobile/web/lib/tera-wurfl/tera_wurfl_config.php.example
+END
+tera_wurfl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3095/trunk/mobile/web/lib/tera-wurfl/tera_wurfl.php
+END
+check_wurfl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3034/trunk/mobile/web/lib/tera-wurfl/check_wurfl.php
+END
+me.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3034/trunk/mobile/web/lib/tera-wurfl/me.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3034/trunk/mobile/web/lib/tera-wurfl/README
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Image/Zoom
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Image/Zoom/AndroidManifest.xml
+END
+Zoom.pde
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Image/Zoom/Zoom.pde
+END

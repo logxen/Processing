@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7421/trunk/web/java_generate/ReferenceGenerator/.classpath
+END
+processingrefBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/processingrefBuild.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7421/trunk/web/java_generate/ReferenceGenerator/.project
+END
+androidrefBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7421/trunk/web/java_generate/ReferenceGenerator/androidrefBuild.sh
+END

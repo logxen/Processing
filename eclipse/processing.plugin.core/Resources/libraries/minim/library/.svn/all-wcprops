@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library
+END
+jl1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/jl1.0.jar
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/export.txt
+END
+mp3spi1.9.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/mp3spi1.9.4.jar
+END
+jsminim.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/jsminim.jar
+END
+tritonus_share.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/tritonus_share.jar
+END
+minim.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/minim.jar
+END
+tritonus_aos.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/tritonus_aos.jar
+END
+minim-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/minim/library/minim-spi.jar
+END

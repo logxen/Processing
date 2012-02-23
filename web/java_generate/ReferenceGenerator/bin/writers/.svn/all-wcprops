@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/bin/writers
+END
+XMLReferenceWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/bin/writers/XMLReferenceWriter.class
+END
+MethodWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/MethodWriter.class
+END
+FileUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/FileUtils.class
+END
+FieldWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/FieldWriter.class
+END
+LibraryWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/LibraryWriter.class
+END
+ClassWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/ClassWriter.class
+END
+FunctionWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/FunctionWriter.class
+END
+IndexWriter$Alphabetizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9174/trunk/web/java_generate/ReferenceGenerator/bin/writers/IndexWriter$Alphabetizer.class
+END
+IndexWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9174/trunk/web/java_generate/ReferenceGenerator/bin/writers/IndexWriter.class
+END
+Shared.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/Shared.class
+END
+BaseWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9175/trunk/web/java_generate/ReferenceGenerator/bin/writers/BaseWriter.class
+END
+TemplateWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9174/trunk/web/java_generate/ReferenceGenerator/bin/writers/TemplateWriter.class
+END
+LibraryIndexWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9041/trunk/web/java_generate/ReferenceGenerator/bin/writers/LibraryIndexWriter.class
+END

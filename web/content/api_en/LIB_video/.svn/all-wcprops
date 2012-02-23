@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9049/trunk/web/content/api_en/LIB_video
+END
+movieEvent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/movieEvent.xml
+END
+Capture_source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Capture_source.xml
+END
+Capture_noCrop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Capture_noCrop.xml
+END
+Capture_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Capture_settings.xml
+END
+Movie_duration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_duration.xml
+END
+Movie_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_stop.xml
+END
+Capture_crop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9049/trunk/web/content/api_en/LIB_video/Capture_crop.xml
+END
+Capture_frameRate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Capture_frameRate.xml
+END
+Movie_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_time.xml
+END
+Capture_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Capture_list.xml
+END
+Capture_read.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Capture_read.xml
+END
+Movie_speed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_speed.xml
+END
+Capture_available.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Capture_available.xml
+END
+Capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Capture.xml
+END
+Movie_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_play.xml
+END
+Movie_noLoop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_noLoop.xml
+END
+captureEvent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/captureEvent.xml
+END
+Movie_frameRate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_frameRate.xml
+END
+Capture_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Capture_stop.xml
+END
+Movie_loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_loop.xml
+END
+Movie_jump.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_jump.xml
+END
+Movie_read.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_read.xml
+END
+Capture_format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Capture_format.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/index.html
+END
+Movie_pause.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie_pause.xml
+END
+Movie_available.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8638/trunk/web/content/api_en/LIB_video/Movie_available.xml
+END
+Movie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8578/trunk/web/content/api_en/LIB_video/Movie.xml
+END

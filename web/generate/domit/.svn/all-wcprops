@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8644/trunk/web/generate/domit
+END
+xml_saxy_shared.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8644/trunk/web/generate/domit/xml_saxy_shared.php
+END
+xml_domit_parseattributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_parseattributes.php
+END
+xml_saxy_lite_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_saxy_lite_parser.php
+END
+xml_domit_include.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_include.php
+END
+php_http_connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_http_connector.php
+END
+xml_domit_xpath.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_xpath.php
+END
+xml_domit_getelementsbypath.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_getelementsbypath.php
+END
+xml_domit_doctor.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_doctor.php
+END
+xml_domit_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_parser.php
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8608/trunk/web/generate/domit/license.txt
+END
+xml_domit_lite_include.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_lite_include.php
+END
+xml_domit_cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_cache.php
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8608/trunk/web/generate/domit/changelog.txt
+END
+php_http_client_generic.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_http_client_generic.php
+END
+xml_saxy_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_saxy_parser.php
+END
+domitBanner.gif
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8608/trunk/web/generate/domit/domitBanner.gif
+END
+php_file_utilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_file_utilities.php
+END
+xml_domit_nodemaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_nodemaps.php
+END
+xml_domit_nodetools.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_nodetools.php
+END
+xml_domit_shared.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_shared.php
+END
+xml_domit_lite_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_lite_parser.php
+END
+php_http_exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_http_exceptions.php
+END
+xml_domit_utilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8608/trunk/web/generate/domit/xml_domit_utilities.php
+END
+php_http_client_include.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_http_client_include.php
+END
+php_http_proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8608/trunk/web/generate/domit/php_http_proxy.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/library
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/library/export.txt
+END
+itext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/library/itext.jar
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/library/.cvsignore
+END

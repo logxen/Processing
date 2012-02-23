@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/INSTALL.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/UPGRADE.txt
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/COPYING.txt
+END
+DOCUMENTATION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/DOCUMENTATION.txt
+END
+sample-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/sample-config.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2236/trunk/mobile/web/pmwiki-2.1.5/docs/.htaccess
+END

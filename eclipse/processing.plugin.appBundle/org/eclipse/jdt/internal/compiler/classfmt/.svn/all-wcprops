@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt
+END
+MethodInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/MethodInfo.class
+END
+InnerClassInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/InnerClassInfo.class
+END
+ClassFormatException.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/ClassFormatException.class
+END
+ElementValuePairInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/ElementValuePairInfo.class
+END
+FieldInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/FieldInfo.class
+END
+AnnotationMethodInfoWithAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/AnnotationMethodInfoWithAnnotations.class
+END
+ClassFileConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/ClassFileConstants.class
+END
+MethodInfoWithAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/MethodInfoWithAnnotations.class
+END
+FieldInfoWithAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/FieldInfoWithAnnotation.class
+END
+AnnotationInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/AnnotationInfo.class
+END
+MethodInfoWithParameterAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/MethodInfoWithParameterAnnotations.class
+END
+AnnotationMethodInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/AnnotationMethodInfo.class
+END
+ClassFileReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/ClassFileReader.class
+END
+ClassFileStruct.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/classfmt/ClassFileStruct.class
+END

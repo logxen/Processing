@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr
+END
+PdePartialTokenTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdePartialTokenTypes.class
+END
+JavaLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaLexer.smap
+END
+JavaTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaTokenTypes.txt
+END
+JavaLexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaLexer.class
+END
+PdePartialTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdePartialTokenTypes.txt
+END
+PdeRecognizer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeRecognizer.smap
+END
+PdeTokenTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeTokenTypes.class
+END
+PdeRecognizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeRecognizer.class
+END
+expandedpde.g
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/expandedpde.g
+END
+PdeLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeLexer.smap
+END
+JavaRecognizer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaRecognizer.smap
+END
+JavaTokenTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaTokenTypes.class
+END
+PdeTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeTokenTypes.txt
+END
+PdeLexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/PdeLexer.class
+END
+JavaRecognizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/antlr/JavaRecognizer.class
+END

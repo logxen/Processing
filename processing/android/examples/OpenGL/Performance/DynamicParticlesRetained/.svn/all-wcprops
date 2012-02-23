@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Performance/DynamicParticlesRetained
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Performance/DynamicParticlesRetained/AndroidManifest.xml
+END
+sketch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Performance/DynamicParticlesRetained/sketch.properties
+END
+DynamicParticlesRetained.pde
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Performance/DynamicParticlesRetained/DynamicParticlesRetained.pde
+END

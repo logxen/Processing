@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8877/trunk/processing/java/libraries/net
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7593/trunk/processing/java/libraries/net/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7593/trunk/processing/java/libraries/net/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7616/trunk/processing/java/libraries/net/build.xml
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64
+END
+libdca.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libdca.dylib
+END
+libvorbisenc.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libvorbisenc.dylib
+END
+libgstaudio-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstaudio-0.10.dylib
+END
+libgstphotography-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstphotography-0.10.dylib
+END
+libtheoradec.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libtheoradec.dylib
+END
+libgstrtp-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstrtp-0.10.dylib
+END
+liborc-test-0.4.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/liborc-test-0.4.dylib
+END
+libvorbis.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libvorbis.dylib
+END
+libgsttag-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgsttag-0.10.dylib
+END
+libgstreamer-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstreamer-0.10.dylib
+END
+libglib-2.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libglib-2.0.dylib
+END
+libgstapp-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstapp-0.10.dylib
+END
+libgstnetbuffer-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstnetbuffer-0.10.dylib
+END
+libgthread-2.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgthread-2.0.dylib
+END
+libgstpbutils-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstpbutils-0.10.dylib
+END
+libogg.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libogg.dylib
+END
+libgstinterfaces-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstinterfaces-0.10.dylib
+END
+libgstcontroller-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstcontroller-0.10.dylib
+END
+libgstbasecamerabinsrc-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstbasecamerabinsrc-0.10.dylib
+END
+libgstsdp-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstsdp-0.10.dylib
+END
+libgstriff-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstriff-0.10.dylib
+END
+libgstrtsp-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstrtsp-0.10.dylib
+END
+libxml2.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libxml2.dylib
+END
+liborc-0.4.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/liborc-0.4.dylib
+END
+libjasper.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libjasper.dylib
+END
+libjpeg.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libjpeg.dylib
+END
+libgmodule-2.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgmodule-2.0.dylib
+END
+libmpcdec.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libmpcdec.dylib
+END
+libgstbasevideo-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstbasevideo-0.10.dylib
+END
+libgstvideo-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstvideo-0.10.dylib
+END
+libssl.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libssl.dylib
+END
+libgstbase-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstbase-0.10.dylib
+END
+libintl.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libintl.dylib
+END
+libdc1394.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libdc1394.dylib
+END
+libtheoraenc.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libtheoraenc.dylib
+END
+libz.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libz.dylib
+END
+libgstfft-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstfft-0.10.dylib
+END
+libdv.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libdv.dylib
+END
+libgobject-2.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgobject-2.0.dylib
+END
+libgio-2.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgio-2.0.dylib
+END
+libiconv.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libiconv.dylib
+END
+libcrypto.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libcrypto.dylib
+END
+libncurses.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libncurses.dylib
+END
+libgstdataprotocol-0.10.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libgstdataprotocol-0.10.dylib
+END
+libusb-1.0.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8738/trunk/processing/java/libraries/video/library/macosx64/libusb-1.0.dylib
+END

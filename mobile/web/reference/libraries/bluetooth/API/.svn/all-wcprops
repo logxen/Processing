@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2350/trunk/mobile/web/reference/libraries/bluetooth/API
+END
+Client_readBytes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Client_readBytes.xml
+END
+Bluetooth_start.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_start.xml
+END
+Client_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_stop.xml
+END
+Bluetooth_EVENT_CLIENT_CONNECTED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_EVENT_CLIENT_CONNECTED.xml
+END
+Client_writeBoolean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_writeBoolean.xml
+END
+Device.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Device.xml
+END
+Service_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Service_description.xml
+END
+Device_address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Device_address.xml
+END
+Device_cancel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Device_cancel.xml
+END
+Bluetooth_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2350/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_find.xml
+END
+Bluetooth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2350/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth.xml
+END
+Service_connect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Service_connect.xml
+END
+Bluetooth_cancel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_cancel.xml
+END
+Client_skipBytes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_skipBytes.xml
+END
+Bluetooth_EVENT_DISCOVER_DEVICE_COMPLETED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_EVENT_DISCOVER_DEVICE_COMPLETED.xml
+END
+Bluetooth_EVENT_DISCOVER_SERVICE_COMPLETED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_EVENT_DISCOVER_SERVICE_COMPLETED.xml
+END
+Bluetooth_EVENT_DISCOVER_DEVICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_EVENT_DISCOVER_DEVICE.xml
+END
+Client_readInt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_readInt.xml
+END
+Bluetooth_EVENT_DISCOVER_SERVICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_EVENT_DISCOVER_SERVICE.xml
+END
+Client_writeChar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_writeChar.xml
+END
+Client_write.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_write.xml
+END
+Client_readUTF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_readUTF.xml
+END
+Device_discover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Device_discover.xml
+END
+Device_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Device_name.xml
+END
+Service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Service.xml
+END
+Service_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Service_name.xml
+END
+Client_writeInt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_writeInt.xml
+END
+Bluetooth_discover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_discover.xml
+END
+Client_writeUTF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_writeUTF.xml
+END
+Client_readChar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_readChar.xml
+END
+Client_read.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_read.xml
+END
+Client_readBoolean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client_readBoolean.xml
+END
+Bluetooth_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1730/trunk/mobile/web/reference/libraries/bluetooth/API/Bluetooth_stop.xml
+END
+Service_provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Service_provider.xml
+END
+Client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1744/trunk/mobile/web/reference/libraries/bluetooth/API/Client.xml
+END
+Service_device.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2306/trunk/mobile/web/reference/libraries/bluetooth/API/Service_device.xml
+END

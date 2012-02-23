@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Lights/CameraLight
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Lights/CameraLight/AndroidManifest.xml
+END
+CameraLight.pde
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Lights/CameraLight/CameraLight.pde
+END

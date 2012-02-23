@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library
+END
+jogl_awt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl_awt.dll
+END
+gluegen-rt.jar.pack.gz
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt.jar.pack.gz
+END
+gluegen-rt-natives-linux-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-linux-i586.jar
+END
+jogl-natives-linux-amd64.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-linux-amd64.jar
+END
+gluegen-rt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt.dll
+END
+gluegen-rt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt.jar
+END
+jogl-natives-macosx-ppc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-macosx-ppc.jar
+END
+libjogl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/libjogl.jnilib
+END
+gluegen-rt-natives-macosx-universal.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-macosx-universal.jar
+END
+gluegen-rt-natives-windows-amd64.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-windows-amd64.jar
+END
+jogl-natives-windows-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-windows-i586.jar
+END
+opengl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/opengl.jar
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/export.txt
+END
+libjogl_cg.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/libjogl_cg.jnilib
+END
+gluegen-rt-natives-linux-amd64.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-linux-amd64.jar
+END
+jogl.jar.pack.gz
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl.jar.pack.gz
+END
+gluegen-rt-natives-macosx-ppc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-macosx-ppc.jar
+END
+libjogl_awt.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/libjogl_awt.jnilib
+END
+jogl-natives-linux-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-linux-i586.jar
+END
+jogl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl.dll
+END
+jogl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl.jar
+END
+libgluegen-rt.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/libgluegen-rt.jnilib
+END
+jogl-natives-macosx-universal.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-macosx-universal.jar
+END
+gluegen-rt-natives-windows-i586.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/gluegen-rt-natives-windows-i586.jar
+END
+jogl-natives-windows-amd64.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl-natives-windows-amd64.jar
+END
+jogl_cg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/library/jogl_cg.dll
+END

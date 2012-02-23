@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding
+END
+InvariantViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/InvariantViolationException.java
+END
+JRadioButtonBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JRadioButtonBinding.java
+END
+OptJTextAreaBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/OptJTextAreaBinding.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/Messages.java
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/messages_es.properties
+END
+Binding.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/Binding.java
+END
+JTextComponentBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JTextComponentBinding.java
+END
+JComboBoxBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JComboBoxBinding.java
+END
+JListBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JListBinding.java
+END
+OptComponentBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/OptComponentBinding.java
+END
+IValidatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/IValidatable.java
+END
+JTextAreaBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JTextAreaBinding.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/messages.properties
+END
+JToggleButtonBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/JToggleButtonBinding.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/Validator.java
+END
+BindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/BindingException.java
+END
+Bindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/binding/Bindings.java
+END

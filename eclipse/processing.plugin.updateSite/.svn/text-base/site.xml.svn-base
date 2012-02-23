@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Processing Update Site" url="http://eclipse.processing.org/plugin">
+      Your one stop shop for more-or-less official Processing plug-ins.
+   </description>
+   <feature url="features/processing.plugin_0.3.0.201010182137.jar" id="processing.plugin" version="0.3.0.201010182137">
+      <category name="processing_plug_in"/>
+   </feature>
+   <feature url="features/processing.plugin_0.3.1.201010191219.jar" id="processing.plugin" version="0.3.1.201010191219">
+      <category name="processing_plug_in"/>
+   </feature>
+   <category-def name="processing_plug_in" label="Processing Plug-in for Eclipse">
+      <description>
+         Provides integration for the Processing programming language to the Eclipse platform. See http://www.processing.org to learn more.
+      </description>
+   </category-def>
+</site>

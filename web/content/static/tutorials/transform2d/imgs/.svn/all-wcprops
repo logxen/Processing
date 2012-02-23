@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6027/trunk/web/content/static/tutorials/transform2d/imgs
+END
+rotate_test.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/rotate_test.png
+END
+pivot.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/pivot.png
+END
+new_coords.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/new_coords.png
+END
+bad_rotate.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/bad_rotate.png
+END
+original.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/original.png
+END
+wheel.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/wheel.png
+END
+good_rotate.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/good_rotate.png
+END
+houses.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/houses.png
+END
+rotated_grid.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/rotated_grid.png
+END
+scale1.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/scale1.png
+END
+order.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/order.png
+END
+degrees.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/degrees.png
+END
+transform2d.zip
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6027/trunk/web/content/static/tutorials/transform2d/imgs/transform2d.zip
+END
+moved_grid.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/moved_grid.png
+END
+whole_robot.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/whole_robot.png
+END
+correct_rotate_grid.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6013/trunk/web/content/static/tutorials/transform2d/imgs/correct_rotate_grid.png
+END

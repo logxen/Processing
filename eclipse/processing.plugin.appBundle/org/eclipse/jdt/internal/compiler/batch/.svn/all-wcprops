@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch
+END
+ClasspathLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathLocation.class
+END
+Main$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$3.class
+END
+Main$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$4.class
+END
+Main$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$5.class
+END
+CompilationUnit.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/CompilationUnit.class
+END
+ClasspathJar.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathJar.class
+END
+ClasspathJar$ManifestAnalyzer.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathJar$ManifestAnalyzer.class
+END
+Main$ResourceBundleFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$ResourceBundleFactory.class
+END
+FileSystem$ClasspathSectionProblemReporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/FileSystem$ClasspathSectionProblemReporter.class
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main.class
+END
+FileSystem.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/FileSystem.class
+END
+Main$Logger.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$Logger.class
+END
+FileSystem$Classpath.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/FileSystem$Classpath.class
+END
+ClasspathDirectory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathDirectory$1.class
+END
+FileSystem$ClasspathNormalizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/FileSystem$ClasspathNormalizer.class
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/messages.properties
+END
+ClasspathSourceJar.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathSourceJar.class
+END
+FileFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/FileFinder.class
+END
+ClasspathDirectory.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/ClasspathDirectory.class
+END
+Main$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$1.class
+END
+Main$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/batch/Main$2.class
+END

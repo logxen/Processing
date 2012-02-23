@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch
+END
+RoundEnvImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/RoundEnvImpl.class
+END
+AnnotationDiscoveryVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/AnnotationDiscoveryVisitor.class
+END
+BaseMessagerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BaseMessagerImpl.class
+END
+BatchFilerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BatchFilerImpl.class
+END
+HookedJavaFileObject$ForwardingOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/HookedJavaFileObject$ForwardingOutputStream.class
+END
+HookedJavaFileObject$ForwardingWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/HookedJavaFileObject$ForwardingWriter.class
+END
+BatchMessagerImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BatchMessagerImpl.class
+END
+ProcessorInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/ProcessorInfo.class
+END
+RoundDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/RoundDispatcher.class
+END
+BaseAnnotationProcessorManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BaseAnnotationProcessorManager.class
+END
+BaseProcessingEnvImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BaseProcessingEnvImpl.class
+END
+HookedJavaFileObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/HookedJavaFileObject.class
+END
+IProcessorProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/IProcessorProvider.class
+END
+AptProblem.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/AptProblem.class
+END
+BatchAnnotationProcessorManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BatchAnnotationProcessorManager.class
+END
+BatchProcessingEnvImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/eclipse/jdt/internal/compiler/apt/dispatch/BatchProcessingEnvImpl.class
+END

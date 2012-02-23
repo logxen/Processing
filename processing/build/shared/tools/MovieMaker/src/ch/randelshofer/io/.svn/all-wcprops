@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/io
+END
+ImageOutputStreamAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/io/ImageOutputStreamAdapter.java
+END
+SeekableByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/8496/trunk/processing/build/shared/tools/MovieMaker/src/ch/randelshofer/io/SeekableByteArrayOutputStream.java
+END

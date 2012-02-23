@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Transform/Bird
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Transform/Bird/AndroidManifest.xml
+END
+Bird.pde
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Transform/Bird/Bird.pde
+END
+sketch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9200/trunk/processing/android/examples/OpenGL/Transform/Bird/sketch.properties
+END

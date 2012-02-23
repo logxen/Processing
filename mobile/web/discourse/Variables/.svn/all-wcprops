@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2372/trunk/mobile/web/discourse/Variables
+END
+ban_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/ban_log.txt
+END
+ban_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/ban_email.txt
+END
+cat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2372/trunk/mobile/web/discourse/Variables/cat.txt
+END
+agreement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/agreement.txt
+END
+membergroups.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/membergroups.txt
+END
+censor.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/censor.txt
+END
+reservecfg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/reservecfg.txt
+END
+reserve.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/reserve.txt
+END
+news.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/news.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/index.html
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/.htaccess
+END
+oldestmes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/oldestmes.txt
+END
+ban_memname.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/ban_memname.txt
+END
+ban.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1555/trunk/mobile/web/discourse/Variables/ban.txt
+END

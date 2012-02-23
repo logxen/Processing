@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8877/trunk/processing/java/libraries/serial
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7596/trunk/processing/java/libraries/serial/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7596/trunk/processing/java/libraries/serial/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7616/trunk/processing/java/libraries/serial/build.xml
+END

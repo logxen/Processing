@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8954/trunk/web/templates
+END
+template.nav.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8676/trunk/web/templates/template.nav.php
+END
+template.curated.archive.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8616/trunk/web/templates/template.curated.archive.html
+END
+template.examples-topics.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8682/trunk/web/templates/template.examples-topics.html
+END
+template.cover.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8590/trunk/web/templates/template.cover.html
+END
+rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2305/trunk/web/templates/rss.php
+END
+template.examples-basics.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8682/trunk/web/templates/template.examples-basics.html
+END
+template.ref.index.ext.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6842/trunk/web/templates/template.ref.index.ext.html
+END
+template.ref.index.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6842/trunk/web/templates/template.ref.index.html
+END
+template.curated.item.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1592/trunk/web/templates/template.curated.item.html
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8685/trunk/web/templates/template.php
+END
+rss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2220/trunk/web/templates/rss.xml
+END
+template.local.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8954/trunk/web/templates/template.local.html
+END
+template.example.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8667/trunk/web/templates/template.example.html
+END
+template.reference.item.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5532/trunk/web/templates/template.reference.item.html
+END
+template.reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5532/trunk/web/templates/template.reference.html
+END
+template.translation.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8954/trunk/web/templates/template.translation.html
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8954/trunk/web/templates/template.html
+END

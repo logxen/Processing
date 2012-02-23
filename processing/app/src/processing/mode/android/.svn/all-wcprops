@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9186/trunk/processing/app/src/processing/mode/android
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8877/trunk/processing/app/src/processing/mode/android/Device.java
+END
+AndroidBuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9186/trunk/processing/app/src/processing/mode/android/AndroidBuild.java
+END
+AndroidToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8832/trunk/processing/app/src/processing/mode/android/AndroidToolbar.java
+END
+LogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7565/trunk/processing/app/src/processing/mode/android/LogEntry.java
+END
+DeviceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7565/trunk/processing/app/src/processing/mode/android/DeviceListener.java
+END
+Manifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8329/trunk/processing/app/src/processing/mode/android/Manifest.java
+END
+BadSDKException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7565/trunk/processing/app/src/processing/mode/android/BadSDKException.java
+END
+AndroidRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8835/trunk/processing/app/src/processing/mode/android/AndroidRunner.java
+END
+AVD.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8876/trunk/processing/app/src/processing/mode/android/AVD.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7781/trunk/processing/app/src/processing/mode/android/Permissions.java
+END
+Keys.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7565/trunk/processing/app/src/processing/mode/android/Keys.java
+END
+Export.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7565/trunk/processing/app/src/processing/mode/android/Export.java
+END
+AndroidSDK.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8836/trunk/processing/app/src/processing/mode/android/AndroidSDK.java
+END
+Devices.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8880/trunk/processing/app/src/processing/mode/android/Devices.java
+END
+AndroidMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/mode/android/AndroidMode.java
+END
+AndroidPreprocessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8062/trunk/processing/app/src/processing/mode/android/AndroidPreprocessor.java
+END
+AndroidEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8892/trunk/processing/app/src/processing/mode/android/AndroidEditor.java
+END
+EmulatorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8880/trunk/processing/app/src/processing/mode/android/EmulatorController.java
+END

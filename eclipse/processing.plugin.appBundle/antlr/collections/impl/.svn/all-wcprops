@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl
+END
+LLEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/LLEnumeration.class
+END
+Vector.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/Vector.class
+END
+IndexedVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/IndexedVector.class
+END
+VectorEnumerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/VectorEnumerator.class
+END
+ASTArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/ASTArray.class
+END
+LList.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/LList.class
+END
+LLCell.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/LLCell.class
+END
+IntRange.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/IntRange.class
+END
+VectorEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/VectorEnumeration.class
+END
+ASTEnumerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/ASTEnumerator.class
+END
+BitSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/antlr/collections/impl/BitSet.class
+END

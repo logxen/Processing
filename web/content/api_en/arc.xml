@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+<name>arc()</name>
+
+<type></type>
+
+<example>
+<image>arc_.png</image>
+<code><![CDATA[
+arc(50, 55, 50, 50, 0, HALF_PI);
+noFill();
+arc(50, 55, 60, 60, HALF_PI, PI);
+arc(50, 55, 70, 70, PI, PI+QUARTER_PI);
+arc(50, 55, 80, 80, PI+QUARTER_PI, TWO_PI);
+]]></code>
+</example>
+
+<description><![CDATA[
+Draws an arc to the screen. Arcs are drawn along the outer edge of an ellipse defined by the <b>x</b>, <b>y</b>, <b>width</b> and <b>height</b> parameters. The origin of the arc's ellipse may be changed with the <b>ellipseMode()</b> function. Use the <b>start</b> and <b>stop</b> parameters to specify the angles (in radians) at which to draw the arc.
+]]></description>
+
+</root>

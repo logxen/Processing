@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/video
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/video/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/video/.project
+END
+QTJava.zip
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/video/QTJava.zip
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/video/build.xml
+END

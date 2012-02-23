@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1748/trunk/mobile/web/reference/libraries/sound/API
+END
+Sound_loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_loop.xml
+END
+Sound_supportedTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1748/trunk/mobile/web/reference/libraries/sound/API/Sound_supportedTypes.xml
+END
+Sound_playTone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_playTone.xml
+END
+Sound_pause.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_pause.xml
+END
+Sound_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_time.xml
+END
+Sound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1748/trunk/mobile/web/reference/libraries/sound/API/Sound.xml
+END
+Sound_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_play.xml
+END
+Sound_duration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_duration.xml
+END
+Sound_stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_stop.xml
+END
+Sound_volume.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1729/trunk/mobile/web/reference/libraries/sound/API/Sound_volume.xml
+END

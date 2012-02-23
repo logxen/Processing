@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+<name>loadFont()</name>
+
+<category>Typography</category>
+
+<subcategory>Loading &amp; Displaying</subcategory>
+
+<type></type>
+
+<example>
+<image>loadFont_.png</image>
+<code><![CDATA[
+PFont font;
+// The font must be located in the sketch's 
+// "data" directory to load successfully
+font = loadFont("LetterGothicStd-32.vlw");
+textFont(font, 32);
+text("word", 10, 50);
+]]></code>
+</example>
+
+<js_mode>
+	<description><![CDATA[
+Font support for the Canvas element varies across browsers. FireFox currently has the best support, but still uses a pre-defined set of fonts. (Documentation to follow soon.) Good alternatives to the browser's Canvas-font functions are available: such as the <a href="http://bocoup.com/processing-js/docs/index.php?page=Cross-Browser%20Canvas%20Fonts">Glyph method</a>. See also: <a href="http://jim.studt.net/canvastext/">Canvas Text</a>, <a href="http://canvas.burnttoys.net/bauhaus.html">BurntToys Bauhaus</a>.
+<br /><br />
+<p><b>Please use the follwoing demos to learn how fonts can be rendered in Firefox with Processing.js: <a href="http://processingjs.org/learning/basic/letters">Letters</a>, <a href="http://processingjs.org/learning/basic/words">Words</a>, <a href="http://processingjs.org/source/text-width/text-width.html">width()</a></b></p>
+]]></description>
+</js_mode>
+
+<description><![CDATA[
+Loads a font into a variable of type <b>PFont</b>. To load correctly, fonts must be located in the data directory of the current sketch. To create a font to use with Processing, select "Create Font..." from the Tools menu. This will create a font in the format Processing requires and also adds it to the current sketch's data directory.<br /> 
+<br />
+Like <b>loadImage()</b> and other functions that load data, the <b>loadFont()</b> function should not be used inside <b>draw()</b>, because it will slow down the sketch considerably, as the font will be re-loaded from the disk (or network) on each frame.<br />
+<br />
+For most renderers, Processing displays fonts using the .vlw font format, which uses images for each letter, rather than defining them through vector data. When <b>hint(ENABLE_NATIVE_FONTS)</b> is used with the JAVA2D renderer, the native version of a font will be used if it is installed on the user's machine.<br /> 
+<br />
+Using <b>createFont()</b> (instead of loadFont) enables vector data to be used with the JAVA2D (default) renderer setting. This can be helpful when many font sizes are needed, or when using any renderer based on JAVA2D, such as the PDF library. 
+]]></description>
+
+</root>

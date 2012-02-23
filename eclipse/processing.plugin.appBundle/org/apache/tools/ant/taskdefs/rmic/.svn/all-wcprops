@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic
+END
+RmicAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/RmicAdapter.class
+END
+XNewRmic.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/XNewRmic.class
+END
+WLRmic.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/WLRmic.class
+END
+SunRmic.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/SunRmic.class
+END
+ForkingSunRmic.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/ForkingSunRmic.class
+END
+DefaultRmicAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/DefaultRmicAdapter.class
+END
+RmicAdapterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/RmicAdapterFactory.class
+END
+DefaultRmicAdapter$RmicFileNameMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/DefaultRmicAdapter$RmicFileNameMapper.class
+END
+KaffeRmic.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/org/apache/tools/ant/taskdefs/rmic/KaffeRmic.class
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8792/trunk/processing/java/libraries/serial/library
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7634/trunk/processing/java/libraries/serial/library/export.txt
+END
+RXTXcomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7960/trunk/processing/java/libraries/serial/library/RXTXcomm.jar
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7596/trunk/processing/java/libraries/serial/library/.cvsignore
+END

@@ -1,0 +1,328 @@
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 DESIGN
+
+$ Prepare MODE images for JavaScript, Android  --CR
+
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 REFERENCE
+
+- Parameter decisions  --BF,CR,SM
+- Parameter alignment (after above decisions)  --SM
+	- size(): renderer parameters shown are P2D and P3D, but this should also list PDF --SM
+	- PVector: 'z' parameter is incorrectly listed as 'the y coordinate'
+		http://code.google.com/p/processing/issues/detail?id=935
+
+$ Contributed Libraries and Tools are not appearing on the site  --CR,BF
+
+RELATED LINKS WITHIN THE REFERENCE
+
+- Add @see in the source where appropriate, PShape methods need obvious help  --SM
+- Add imageMode() as related to Video library > Capture > crop --SM
+	How can I reference this? Couldn't find it in Capture.java.
+
+NEW LANGUAGE ELEMENTS IN REFERENCE
+
+- XML  --SM
+- JSON  --SM
+- PTABLE  --SM
+x quadraticVertex()  --CR
+- new arc()  --CR
+- blendMode()  --CR
+- createShape()  --CR
+- begin/endContour()  --CR
+- clip()/noClip()  --CR
+? thread()  --CR
+
+
+THE FOLLOWING IS FROM DB AND PROCESSING/TODO.TXT AND PROCESSING/CORE/TODO.TXT AND IS ALL FOR CR:
+
+- 835 Improve mouseX, mouseY, pmouseX, pmouseY documentation  --CR
+- PDF fonts
+-   rewrite documentation about pdf fonts (errors with non-native fonts)
+-   figure out why font naming not working correctly
+o "Find in Reference" for copy() goes to PVector
+
+
+  DONE
+o XMLElement is not linked for find in ref
+x 085 Constants in PConstants not syntax highlighting  --CR
+x 250 Details regarding keywords.txt  --CR
+x if() and for() don't work, they look for for_.html instead of for.html
+x the ? operator is not in find in ref (no ref page either?)
+o Update keywords generator script on the site
+o   perhaps move this closer to the dev process?
+x TRIANGLE_STRIP not highlighted for "find in reference"
+x   nor is it listed on the reference page
+x   so students can't find the ref for it
+x   needs to link TRIANGLE_STRIP to the beginShape() reference
+x 200 Need to document NaN and Inf or -Inf for functions that can return them  --CR
+x 333 Parameters to filter() and PImage.filter()  --CR
+x rounded rect()  --CR
+x Broken header links for Distribution
+x Better links from Local Reference to online lists of Contributed Tools and Libraries  --CR
+x Navigation for Libraries and Tools in Reference is broken  --CR
+x PImage's mask() needs an @brief  --CR
+x Modify build script to work on Server  --CR
+x loadShape() not in index.html  --CR
+x New PNG images for reference for smooth() change  --SM
+x All in "reviewing_reference.txt" file produced by Cindy  --SM
+x image not correct for color(), should not have a stroke  --SM
+x look at example for red() to make clearer  --SM
+x wrote and added an example to 'null'  --SM
+x Add examples to filter() and PImage.filter() for erode() and dilate() methods  --SM
+x Fixed PGraphics link to developers reference  --SM
+x text() change at least one example to not require loadFont() and describe  --SM
+x add two examples for color() to show gray and with colorMode(HSB) --SM
+x review "implements" description --SM
+x Enhanced descriptions affected by rectMode(), added new examples for each MODE to rectMode() --SM
+x Enhanced descriptions affected by ellipseMode(), added new examples for each MODE to ellipseMode() --SM
+x Enhanced descriptions affected by imageMode(), added new examples for each MODE to imageMode() --SM
+x Didn't add examples of each MODE to textureMode() (they were already there!), but clarified the description  --SM
+x Created examples for normal(), lightFalloff(), and createInput()  --SM
+x General writing and style clean-up: check the comments in all examples to make sure:  --SM
+x	variable names are put in single quotes (not double quotes!)
+x	println values are put in double quotes
+x Add as related to each other: specular() and lightSpecular() --SM
+x Add as related to each other: ellipse() and arc() --SM
+x Add ">>" as related to each of these: red(), blue(), green() --SM
+x Add redraw() and frameRate() as related to draw() --SM
+x Make sure hex(), unhex(), binary() and unbinary() are all related --SM
+x Add "implements" as related to "extends" --SM
+x Add concat() as related to arrayCopy() and vice versa --SM
+x To text(), add as related: rectMode() and fill() --SM
+o Correct all "Related" links  --SM
+	Requires additional editing work in the .java files:
+	$ For the functions inside PGraphics and PImage, the Related links aren't working, 
+	they are linking to the full link including the class name. For example see 
+	web/distribution/arc_.html and see the links in Related this needs to be fixed on a 
+	per-function basis by including the correct @see tags
+	@see PApplet#imageMode( int ) will reference the core function
+	@see PGraphics#imageMode( int ) will reference the PGraphics method
+	I corrected this for PImage.html by editing the comments in PImage.java
+x Add @see_external links where appropriate  --SM
+    note: use is with the file naming convention for simplicity
+	also helps clarify that these links are to files
+	will search in both the base and include/ directories
+	for libraries @see_external LIB_serial/serialEvent
+    e.g.
+	@see_external String
+	@see_external String_charAt
+	etc.
+	See PGraphics#text() and net.Client for examples of use
+
+Key:
+- To do
+$ In progress
+o N/A anymore
+x Done
+
+
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 DOCUMENTATION
+
+$ Syntax highlighting (see major Issues above)  --CR
+- New IDE image for About page and Environment page  --CR
+- Prepare one-page document explaining Processing, 2.0 changes for new About page  --CR
+
+  DONE
+x Documentation for "Add Library..." / "Add Tool..." / "Add Mode..."  --CR
+x Environment  --CR
+o   New IDE Image
+x   Add JavaScript and Android Modes (NOTE: Need to change terminology for Drawing "Modes")
+x   Change to "active" and "static" mode for draw() and without
+x   Modify menu descriptions for 2.0 final menus
+x Add section for Preferences
+
+Key:
+- To do
+$ In progress
+o N/A anymore
+x Done
+
+
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 EXAMPLE  --XXX
+
+- Move "Directory List" to File IO category  --CR
+- new JSON? -- DS,JT
+- New PVector  --DS
+- New PShape  --DS
+- PTable  --DS,JT
+- add stringIntPair to Hashmap  --DS
+- New P3D  --CR,DS,AC
+x New Regex  --DS
+x Analyze PVector in examples  --DS
+x thread() example  --DS
+x new saveFrame() for recording example --DS (oops there is already a SavingManyImages example)
+x New XML --DS (where should these go?  File IO?)
+
+  NICE
+$ 2 David Muth examples  --CR
+- More with proper typography in OpenGL, meaning textMode(SHAPE) in OpenGL  --CR
+- Custom font examples using loadFont()  --CR
+- New JavaScript Examples  --FJ,CR
+- New PDF w/ typography  --CR,BF
+- Syntax highlighting for Example code online --FJ
+
+  DONE
+o New GUI  --DS
+x Scrollbar example needs new images that fit the new size and the @pjs directive  --CR
+x Mention examples are running with Processing.js  --CR
+x Remove "there are more examples" from individual pages and put in Index  --CR
+x Library examples missing from site  --CR
+x Follow up with Processing.js team regarding Example ports  --CR
+o Remove extra "f" from Java floats  --CR
+x Modify build script to work on Server to build Web examples  --CR
+x Cull OpenGL  --CR
+x All P2D and P3D must be removed from examples  --CR
+x Rework/edit/resize all existing examples  --CR
+x Modify examples for Processing.js  --CR
+x Emphasize createFont() over loadFont()  --CR
+
+Key:
+- To do
+$ In progress
+o N/A anymore
+x Done
+
+
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 TUTORIAL  --XXX
+
+  NEED
+- new PShape --DS
+$ New P3D  --DS (CR to help with links and images, needs one diagram)
+$ Processing.js  --DS,FJ (need info for processing's credits from Dave Humphries)
+x update Strings and Text re: createFont() --DS
+x Update Eclipse  --DS
+x New Android  --DS, JT
+
+$ Update Getting Started for 2.0  --CR
+-   New PDE drawing / image
+-   Antialiased circle
+
+  NICE
+- New Generics  --DS
+- New Regex --DS
+
+  WIKI TUTORIALS
+x update thread tutorial with thread() function --DS
+x fix exception tutorial with loadStrings() --DS
+x common errors --DS
+
+Key:
+- To do
+$ In progress
+o N/A anymore
+x Done
+
+  DONE
+x Tutorial CSS  --CR
+x Update Processing Overview for 2.0  --CR
+
+
+// // // // // // // // // // // // // // // // // // // // //
+
+POST 2.0
+
+- JavaScript reference integration on Processing.org  --FJ,CR
+- JavaScript example integration on Processing.org  --FJ,CR
+- Hire freelance to enhance tutorial figures  --CR
+- Look through 404 issues on the site  --FJ
+
+
+// // // // // // // // // // // // // // // // // // // // //
+
+2.0 REFERENCE ENGINE (COMPLETE, SEE ABOVE FOR RELATED TODO)
+
+Various folks, probably:
+Requires additional editing work in the .java files:
+$ For the functions inside PGraphics and PImage, the Related links aren't working, they are linking to the full
+  link including the class name. For example see web/distribution/arc_.html and see the links in Related
+	this needs to be fixed on a per-function basis by including the correct @see tags
+	@see PApplet#imageMode( int ) will reference the core function
+	@see PGraphics#imageMode( int ) will reference the PGraphics method
+	I corrected this for PImage.html by editing the comments in PImage.java
+
+DAVID
+
+x How to make a reference for captureEvent() etc in the Libraries
+	will approach with .xml files, like include/ for boolean/true/while/etc.
+	Complete list of functions not found in libraries:
+		1.Video
+			Everything in "Capture Class", "Video Events"
+			Capture shows up
+			need captureEvent
+		2. Serial
+			serialEvent()
+		3. Network
+			All "Network Events"
+	The script now checks all the .xml files for the library and will write out html for ones that haven't been documented through source code
+	
+x web_application is not inserted consistently into entries. I'm in favor of removing the Usage 
+  category entirely from the HTML. It doesn't scale to other modes and I think it's better to have
+  this listed in the description, it's such an uncommon occurance for only Web or Application or
+  JavaScript to be supported.
+	"Usage" removed from html
+			
+x Variable types that include 'boolean[], byte[], char[], int[], float[], or String[]' are not displaying correctly in the Parameters section:
+	e.g. shorten(), splice(), and sort()
+	*parameter types are being omitted
+	*Also happens in libraries e.g. Network Library - Server Class - write()
+	Multiple parameters now properly displaying in reference
+	Also using Oxford commas in lists of parameters and return types
+	e.g. 	int, float, or String
+		int or PImage
+
+x (nicety) add @see_external tag for linking to xml content
+	note:	use is with the file naming convention for simplicity
+		also helps clarify that these links are to files
+		will search in both the base and include/ directories
+		for libraries @see_external LIB_serial/serialEvent
+	e.g.
+	@see_external String
+	@see_external String_charAt
+	etc.
+	See PGraphics#text() and net.Client for examples of use
+
+x 'Related' links now try to link to methods within the same class if possible (regardless of how typed in). Should only link to files that exist.
+
+x for() and while() 
+
+x The <!-- classanchor --> tag is not working for files in "includes", see web/distribution/String_indexOf_.html as an example
+  This only affects PrintWriter, BufferedReader, String, the only in "includes" with methods
+
+x Everything in "includes" HTML files has a Class field at the top of the HTML (except classes are correct)
+  See web/distribution/false.html for an example.
+	removed instances of "class Structure" and the like
+x PGraphics and PImage (root classes) aren't getting documented, although their methods are
+	this was a side-effect of an attempt to fix the above, no longer an issue
+	
+x 'long' appearing in reference when it should be 'int' e.g. randomSeed(long) and noiseSeed(long)
+	this was due to using the actual parameter type in reference
+	now replacing 'long' with 'int' in all reference materials
+	also replacing 'double' with 'float'
+	types are being filtered through the BaseWriter::getSimplifiedType() method
+x Alphabetical Index file is incorrectly alphabetized (for people) and should break at letter changes (e.g. between A and B)
+  Capital letters should be integrated with the lowercase letters, rather than at the beginning.
+	Implemented a custom Comparator for alphabetization. Now human-style
+x Alphabetical index is incorrectly showing class methods
+	Need to remove String_charAt_ and other methods from the alphabetical index (they don't appear in categories)
+
+// // // // // // // // // // // // // // // // // // // // //
+
+o New application icon, load screen, site header (do we want this?)  --CR,FJ,BF
+x Check all page header images for gray values  --CR
+
+// // // // // // // // // // // // // // // // // // // // //
+
+Key:
+- To do
+$ In progress
+o N/A anymore
+x Done

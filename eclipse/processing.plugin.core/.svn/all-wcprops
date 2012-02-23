@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7557/trunk/eclipse/processing.plugin.core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/plugin.xml
+END

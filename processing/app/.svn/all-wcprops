@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9220/trunk/processing/app
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8877/trunk/processing/app/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6018/trunk/processing/app/.project
+END
+.classpath_vista
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5060/trunk/processing/app/.classpath_vista
+END
+.classpath_macosx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5060/trunk/processing/app/.classpath_macosx
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7582/trunk/processing/app/build.xml
+END

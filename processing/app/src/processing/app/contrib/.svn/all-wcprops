@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib
+END
+Contribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8765/trunk/processing/app/src/processing/app/contrib/Contribution.java
+END
+InstalledContribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8765/trunk/processing/app/src/processing/app/contrib/InstalledContribution.java
+END
+LibraryCompilation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/LibraryCompilation.java
+END
+ModeContribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ModeContribution.java
+END
+ContributionListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ContributionListing.java
+END
+ContributionManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ContributionManagerDialog.java
+END
+ContributionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ContributionManager.java
+END
+ContributionListPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ContributionListPanel.java
+END
+ProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ProgressMonitor.java
+END
+ToolContribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/ToolContribution.java
+END
+FileDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8766/trunk/processing/app/src/processing/app/contrib/FileDownloader.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8832/trunk/processing/app/lib
+END
+jna.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6146/trunk/processing/app/lib/jna.jar
+END
+antlr-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6457/trunk/processing/app/lib/antlr-src.zip
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4021/trunk/processing/app/lib/antlr.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8832/trunk/processing/app/lib/ant-launcher.jar
+END
+ecj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4131/trunk/processing/app/lib/ecj.jar
+END
+apple.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4021/trunk/processing/app/lib/apple.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8832/trunk/processing/app/lib/ant.jar
+END

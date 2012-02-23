@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9241/trunk/library-template
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9234/trunk/library-template/license.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8816/trunk/library-template/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8816/trunk/library-template/.project
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9238/trunk/library-template/readme.txt
+END

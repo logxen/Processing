@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config
+END
+Jre.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/Jre.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/VersionInfo.java
+END
+ClassPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/ClassPath.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/messages.properties
+END
+ConfigPersisterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/ConfigPersisterException.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/Config.java
+END
+SingleInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/SingleInstance.java
+END
+ConfigPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/ConfigPersister.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/Msg.java
+END
+LdDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/LdDefaults.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/Messages.java
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/messages_es.properties
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/src/net/sf/launch4j/config/Splash.java
+END

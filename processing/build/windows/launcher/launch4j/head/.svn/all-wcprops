@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/head
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4836/trunk/processing/build/windows/launcher/launch4j/head/LICENSE.txt
+END
+consolehead.o
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/head/consolehead.o
+END
+guihead.o
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/head/guihead.o
+END
+head.o
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4841/trunk/processing/build/windows/launcher/launch4j/head/head.o
+END

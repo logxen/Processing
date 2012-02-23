@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8740/trunk/processing/java/libraries/video/library
+END
+export.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8044/trunk/processing/java/libraries/video/library/export.txt
+END
+gstreamer-java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8191/trunk/processing/java/libraries/video/library/gstreamer-java.jar
+END
+jna.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8044/trunk/processing/java/libraries/video/library/jna.jar
+END

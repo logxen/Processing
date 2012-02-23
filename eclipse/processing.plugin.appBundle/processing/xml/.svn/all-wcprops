@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml
+END
+XMLEntityResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLEntityResolver.class
+END
+XMLException.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLException.class
+END
+StdXMLBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/StdXMLBuilder.class
+END
+StdXMLReader$StackedReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/StdXMLReader$StackedReader.class
+END
+XMLAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLAttribute.class
+END
+StdXMLParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/StdXMLParser.class
+END
+XMLValidationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLValidationException.class
+END
+PIReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/PIReader.class
+END
+XMLWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLWriter.class
+END
+ContentReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/ContentReader.class
+END
+XMLUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLUtil.class
+END
+StdXMLReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/StdXMLReader.class
+END
+CDATAReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/CDATAReader.class
+END
+XMLValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLValidator.class
+END
+XMLParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLParseException.class
+END
+XMLElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/xml/XMLElement.class
+END

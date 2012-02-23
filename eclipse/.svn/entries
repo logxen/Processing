@@ -1,0 +1,77 @@
+10
+
+dir
+9248
+http://processing.googlecode.com/svn/trunk/eclipse
+http://processing.googlecode.com/svn
+
+
+
+2011-02-06T01:06:05.608815Z
+7658
+fry@processing.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+processing.plugin.updateSite
+dir
+
+processing.plugin.core
+dir
+
+processing.plugin.appBundle
+dir
+
+processing.plugin.ui
+dir
+
+notes.txt
+file
+
+
+
+
+2012-02-23T11:44:20.701150Z
+cc8287edc80e96a523f26560597fa9b7
+2011-02-06T01:06:05.608815Z
+7658
+fry@processing.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2226
+
+Processing Plugin for Eclipse
+dir
+

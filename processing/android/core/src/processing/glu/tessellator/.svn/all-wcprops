@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator
+END
+PriorityQHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/PriorityQHeap.java
+END
+PriorityQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/PriorityQ.java
+END
+GLUmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/GLUmesh.java
+END
+CachedVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/CachedVertex.java
+END
+GLUface.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/GLUface.java
+END
+TessMono.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/TessMono.java
+END
+GLUhalfEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/GLUhalfEdge.java
+END
+PriorityQSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/PriorityQSort.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Render.java
+END
+ActiveRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/ActiveRegion.java
+END
+TessState.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/TessState.java
+END
+Sweep.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Sweep.java
+END
+Dict.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Dict.java
+END
+GLUvertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/GLUvertex.java
+END
+Geom.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Geom.java
+END
+Normal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Normal.java
+END
+DictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/DictNode.java
+END
+GLUtessellatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/GLUtessellatorImpl.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9207/trunk/processing/android/core/src/processing/glu/tessellator/Mesh.java
+END

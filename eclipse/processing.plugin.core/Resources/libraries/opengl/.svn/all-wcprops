@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/.classpath
+END
+jogl-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/jogl-src.zip
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/opengl/build.xml
+END

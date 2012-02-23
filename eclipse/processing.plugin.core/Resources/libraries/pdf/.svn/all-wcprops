@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/pdf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/pdf/.classpath
+END
+itext-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/pdf/itext-src.zip
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/pdf/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.core/Resources/libraries/pdf/build.xml
+END

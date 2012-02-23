@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax
+END
+InputHandler$clipboard_copy.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$clipboard_copy.class
+END
+InputHandler$clipboard_paste.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$clipboard_paste.class
+END
+JEditTextArea$ScrollLayout.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$ScrollLayout.class
+END
+InputHandler$delete_word.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$delete_word.class
+END
+InputHandler$toggle_rect.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$toggle_rect.class
+END
+TextUtilities.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TextUtilities.class
+END
+TokenMarker.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TokenMarker.class
+END
+InputHandler$document_end.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$document_end.class
+END
+InputHandler$backspace_word.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$backspace_word.class
+END
+InputHandler$prev_page.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$prev_page.class
+END
+InputHandler$next_word.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$next_word.class
+END
+TextAreaPainter$Highlight.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TextAreaPainter$Highlight.class
+END
+JEditTextArea$MutableCaretEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$MutableCaretEvent.class
+END
+InputHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler.class
+END
+JEditTextArea$DragHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$DragHandler.class
+END
+JEditTextArea.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea.class
+END
+InputHandler$next_char.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$next_char.class
+END
+JEditTextArea$DocumentHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$DocumentHandler.class
+END
+Brackets.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/Brackets.class
+END
+JEditTextArea$AdjustHandler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$AdjustHandler$1.class
+END
+TextAreaPainter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TextAreaPainter.class
+END
+InputHandler$repeat.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$repeat.class
+END
+DefaultInputHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/DefaultInputHandler.class
+END
+TextAreaDefaults.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TextAreaDefaults.class
+END
+JEditTextArea$CaretUndo.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$CaretUndo.class
+END
+SyntaxStyle.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/SyntaxStyle.class
+END
+InputHandler$next_line.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$next_line.class
+END
+InputHandler$overwrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$overwrite.class
+END
+InputHandler$document_home.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$document_home.class
+END
+JEditTextArea$MouseHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$MouseHandler.class
+END
+InputHandler$insert_tab.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$insert_tab.class
+END
+Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/Token.class
+END
+JEditTextArea$ComponentHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$ComponentHandler.class
+END
+SyntaxUtilities.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/SyntaxUtilities.class
+END
+KeywordMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/KeywordMap.class
+END
+JEditTextArea$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$1.class
+END
+InputHandler$insert_char.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$insert_char.class
+END
+InputHandler$delete.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$delete.class
+END
+CTokenMarker.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/CTokenMarker.class
+END
+SyntaxDocument.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/SyntaxDocument.class
+END
+JEditTextArea$CaretBlinker.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$CaretBlinker.class
+END
+InputHandler$end.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$end.class
+END
+InputHandler$prev_word.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$prev_word.class
+END
+InputHandler$insert_break.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$insert_break.class
+END
+InputHandler$prev_char.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$prev_char.class
+END
+KeywordMap$Keyword.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/KeywordMap$Keyword.class
+END
+InputHandler$clipboard_cut.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$clipboard_cut.class
+END
+InputHandler$next_page.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$next_page.class
+END
+PdeTextAreaDefaults.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/PdeTextAreaDefaults.class
+END
+InputHandler$backspace.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$backspace.class
+END
+JEditTextArea$FocusHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$FocusHandler.class
+END
+InputHandler$NonRecordable.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$NonRecordable.class
+END
+PdeKeywords.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/PdeKeywords.class
+END
+InputHandler$NonRepeatable.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$NonRepeatable.class
+END
+InputHandler$Wrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$Wrapper.class
+END
+InputHandler$prev_line.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$prev_line.class
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/readme.txt
+END
+InputHandler$MacroRecorder.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$MacroRecorder.class
+END
+CTokenMarker$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/CTokenMarker$1.class
+END
+InputHandler$home.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/InputHandler$home.class
+END
+JEditTextArea$AdjustHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/JEditTextArea$AdjustHandler.class
+END
+TokenMarker$LineInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7388/trunk/eclipse/processing.plugin.appBundle/processing/app/syntax/TokenMarker$LineInfo.class
+END

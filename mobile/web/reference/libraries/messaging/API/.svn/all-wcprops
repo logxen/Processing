@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API
+END
+Messenger_send.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Messenger_send.xml
+END
+Message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Message.xml
+END
+Messenger_EVENT_MSG_RECEIVED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Messenger_EVENT_MSG_RECEIVED.xml
+END
+Message_readBytes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Message_readBytes.xml
+END
+Message_readString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Message_readString.xml
+END
+Messenger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2293/trunk/mobile/web/reference/libraries/messaging/API/Messenger.xml
+END

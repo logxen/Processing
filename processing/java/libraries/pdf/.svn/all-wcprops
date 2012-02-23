@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8877/trunk/processing/java/libraries/pdf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/.classpath
+END
+itext-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/itext-src.zip
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7595/trunk/processing/java/libraries/pdf/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7616/trunk/processing/java/libraries/pdf/build.xml
+END
